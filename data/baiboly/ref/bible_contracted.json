@@ -1,0 +1,398 @@
+[
+    {
+        "numero": 1,
+        "mg": "Gen",
+        "fr": "Gen",
+        "en": "Gen"
+    },
+    {
+        "numero": 2,
+        "mg": "Eks",
+        "fr": "Exo",
+        "en": "Exo"
+    },
+    {
+        "numero": 3,
+        "mg": "Lev",
+        "fr": "Lev",
+        "en": "Lev"
+    },
+    {
+        "numero": 4,
+        "mg": "Nom",
+        "fr": "Nom",
+        "en": "Num"
+    },
+    {
+        "numero": 5,
+        "mg": "Deo",
+        "fr": "Deu",
+        "en": "Deu"
+    },
+    {
+        "numero": 6,
+        "mg": "Jos",
+        "fr": "Jos",
+        "en": "Jos"
+    },
+    {
+        "numero": 7,
+        "mg": "Mpi",
+        "fr": "Jug",
+        "en": "Jdg"
+    },
+    {
+        "numero": 8,
+        "mg": "Rot",
+        "fr": "Rut",
+        "en": "Rut"
+    },
+    {
+        "numero": 9,
+        "mg": "1Sam",
+        "fr": "1Sam",
+        "en": "1Sam"
+    },
+    {
+        "numero": 10,
+        "mg": "2Sam",
+        "fr": "2Sam",
+        "en": "2Sam"
+    },
+    {
+        "numero": 11,
+        "mg": "1Mpa",
+        "fr": "1Roi",
+        "en": "1Kin"
+    },
+    {
+        "numero": 12,
+        "mg": "2Mpa",
+        "fr": "2Roi",
+        "en": "2Kin"
+    },
+    {
+        "numero": 13,
+        "mg": "1Tan",
+        "fr": "1Chr",
+        "en": "1Chr"
+    },
+    {
+        "numero": 14,
+        "mg": "2Tan",
+        "fr": "2Chr",
+        "en": "2Chr"
+    },
+    {
+        "numero": 15,
+        "mg": "Ezr",
+        "fr": "Esd",
+        "en": "Ezr"
+    },
+    {
+        "numero": 16,
+        "mg": "Neh",
+        "fr": "Neh",
+        "en": "Neh"
+    },
+    {
+        "numero": 17,
+        "mg": "Est",
+        "fr": "Est",
+        "en": "Est"
+    },
+    {
+        "numero": 18,
+        "mg": "Job",
+        "fr": "Job",
+        "en": "Job"
+    },
+    {
+        "numero": 19,
+        "mg": "Sal",
+        "fr": "Psa",
+        "en": "Psa"
+    },
+    {
+        "numero": 20,
+        "mg": "Oha",
+        "fr": "Pro",
+        "en": "Pro"
+    },
+    {
+        "numero": 21,
+        "mg": "Mpi",
+        "fr": "Ecc",
+        "en": "Ecc"
+    },
+    {
+        "numero": 22,
+        "mg": "Ton",
+        "fr": "Can",
+        "en": "Sng"
+    },
+    {
+        "numero": 23,
+        "mg": "Isa",
+        "fr": "Esa",
+        "en": "Isa"
+    },
+    {
+        "numero": 24,
+        "mg": "Jer",
+        "fr": "Jer",
+        "en": "Jer"
+    },
+    {
+        "numero": 25,
+        "mg": "Fit",
+        "fr": "Lam",
+        "en": "Lam"
+    },
+    {
+        "numero": 26,
+        "mg": "Eze",
+        "fr": "Eze",
+        "en": "Eze"
+    },
+    {
+        "numero": 27,
+        "mg": "Dan",
+        "fr": "Dan",
+        "en": "Dan"
+    },
+    {
+        "numero": 28,
+        "mg": "Hos",
+        "fr": "Osé",
+        "en": "Hos"
+    },
+    {
+        "numero": 29,
+        "mg": "Joe",
+        "fr": "Joe",
+        "en": "Joe"
+    },
+    {
+        "numero": 30,
+        "mg": "Amo",
+        "fr": "Amo",
+        "en": "Amo"
+    },
+    {
+        "numero": 31,
+        "mg": "Oba",
+        "fr": "Abd",
+        "en": "Oba"
+    },
+    {
+        "numero": 32,
+        "mg": "Jon",
+        "fr": "Jon",
+        "en": "Jon"
+    },
+    {
+        "numero": 33,
+        "mg": "Mik",
+        "fr": "Mic",
+        "en": "Mic"
+    },
+    {
+        "numero": 34,
+        "mg": "Nah",
+        "fr": "Nah",
+        "en": "Nah"
+    },
+    {
+        "numero": 35,
+        "mg": "Hab",
+        "fr": "Hab",
+        "en": "Hab"
+    },
+    {
+        "numero": 36,
+        "mg": "Zef",
+        "fr": "Sop",
+        "en": "Zep"
+    },
+    {
+        "numero": 37,
+        "mg": "Hag",
+        "fr": "Agg",
+        "en": "Hag"
+    },
+    {
+        "numero": 38,
+        "mg": "Zak",
+        "fr": "Zac",
+        "en": "Zec"
+    },
+    {
+        "numero": 39,
+        "mg": "Mal",
+        "fr": "Mal",
+        "en": "Mal"
+    },
+    {
+        "numero": 40,
+        "mg": "Mat",
+        "fr": "Mat",
+        "en": "Mat"
+    },
+    {
+        "numero": 41,
+        "mg": "Mar",
+        "fr": "Mar",
+        "en": "Mar"
+    },
+    {
+        "numero": 42,
+        "mg": "Lio",
+        "fr": "Luc",
+        "en": "Luk"
+    },
+    {
+        "numero": 43,
+        "mg": "Jao",
+        "fr": "Jea",
+        "en": "Joh"
+    },
+    {
+        "numero": 44,
+        "mg": "Asa",
+        "fr": "Act",
+        "en": "Act"
+    },
+    {
+        "numero": 45,
+        "mg": "Rom",
+        "fr": "Rom",
+        "en": "Rom"
+    },
+    {
+        "numero": 46,
+        "mg": "1Kor",
+        "fr": "1Cor",
+        "en": "1Cor"
+    },
+    {
+        "numero": 47,
+        "mg": "2Kor",
+        "fr": "2Cor",
+        "en": "2Cor"
+    },
+    {
+        "numero": 48,
+        "mg": "Gal",
+        "fr": "Gal",
+        "en": "Gal"
+    },
+    {
+        "numero": 49,
+        "mg": "Efe",
+        "fr": "Eph",
+        "en": "Eph"
+    },
+    {
+        "numero": 50,
+        "mg": "Fil",
+        "fr": "Phi",
+        "en": "Phi"
+    },
+    {
+        "numero": 51,
+        "mg": "Kol",
+        "fr": "Col",
+        "en": "Col"
+    },
+    {
+        "numero": 52,
+        "mg": "1Tes",
+        "fr": "1The",
+        "en": "1The"
+    },
+    {
+        "numero": 53,
+        "mg": "2Tes",
+        "fr": "2The",
+        "en": "2The"
+    },
+    {
+        "numero": 54,
+        "mg": "1Tim",
+        "fr": "1Tim",
+        "en": "1Tim"
+    },
+    {
+        "numero": 55,
+        "mg": "2Tim",
+        "fr": "2Tim",
+        "en": "2Tim"
+    },
+    {
+        "numero": 56,
+        "mg": "Tit",
+        "fr": "Tit",
+        "en": "Tit"
+    },
+    {
+        "numero": 57,
+        "mg": "Fil",
+        "fr": "Phi",
+        "en": "Phi"
+    },
+    {
+        "numero": 58,
+        "mg": "Heb",
+        "fr": "Heb",
+        "en": "Heb"
+    },
+    {
+        "numero": 59,
+        "mg": "Jak",
+        "fr": "Jac",
+        "en": "Jam"
+    },
+    {
+        "numero": 60,
+        "mg": "1Pet",
+        "fr": "1Pie",
+        "en": "1Pet"
+    },
+    {
+        "numero": 61,
+        "mg": "2Pet",
+        "fr": "2Pie",
+        "en": "2Pet"
+    },
+    {
+        "numero": 62,
+        "mg": "1Jao",
+        "fr": "1Jea",
+        "en": "1Joh"
+    },
+    {
+        "numero": 63,
+        "mg": "2Jao",
+        "fr": "2Jea",
+        "en": "2Joh"
+    },
+    {
+        "numero": 64,
+        "mg": "3Jao",
+        "fr": "3Jea",
+        "en": "3Joh"
+    },
+    {
+        "numero": 65,
+        "mg": "Jod",
+        "fr": "Jud",
+        "en": "Jud"
+    },
+    {
+        "numero": 66,
+        "mg": "Apo",
+        "fr": "Apo",
+        "en": "Rev"
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "numero": 1,
+        "mg": "Genesisy",
+        "fr": "Genèse",
+        "en": "Genesis"
+    },
+    {
+        "numero": 2,
+        "mg": "Eksodosy",
+        "fr": "Exode",
+        "en": "Exodus"
+    },
+    {
+        "numero": 3,
+        "mg": "Levitikosy",
+        "fr": "Lévitique",
+        "en": "Leviticus"
+    },
+    {
+        "numero": 4,
+        "mg": "Nomery",
+        "fr": "Nombres",
+        "en": "Numbers"
+    },
+    {
+        "numero": 5,
+        "mg": "Deoteronomia",
+        "fr": "Deutéronome",
+        "en": "Deuteronomy"
+    },
+    {
+        "numero": 6,
+        "mg": "Josoa",
+        "fr": "Josué",
+        "en": "Joshua"
+    },
+    {
+        "numero": 7,
+        "mg": "Mpitsara",
+        "fr": "Juges",
+        "en": "Judges"
+    },
+    {
+        "numero": 8,
+        "mg": "Rota",
+        "fr": "Ruth",
+        "en": "Ruth"
+    },
+    {
+        "numero": 9,
+        "mg": "1 Samoela",
+        "fr": "1 Samuel",
+        "en": "1 Samuel"
+    },
+    {
+        "numero": 10,
+        "mg": "2 Samoela",
+        "fr": "2 Samuel",
+        "en": "2 Samuel"
+    },
+    {
+        "numero": 11,
+        "mg": "1 Mpanjaka",
+        "fr": "1 Rois",
+        "en": "1 Kings"
+    },
+    {
+        "numero": 12,
+        "mg": "2 Mpanjaka",
+        "fr": "2 Rois",
+        "en": "2 Kings"
+    },
+    {
+        "numero": 13,
+        "mg": "1 Tantara",
+        "fr": "1 Chroniques",
+        "en": "1 Chronicles"
+    },
+    {
+        "numero": 14,
+        "mg": "2 Tantara",
+        "fr": "2 Chroniques",
+        "en": "2 Chronicles"
+    },
+    {
+        "numero": 15,
+        "mg": "Ezra",
+        "fr": "Esdras",
+        "en": "Ezra"
+    },
+    {
+        "numero": 16,
+        "mg": "Nehemia",
+        "fr": "Néhémie",
+        "en": "Nehemiah"
+    },
+    {
+        "numero": 17,
+        "mg": "Estera",
+        "fr": "Esther",
+        "en": "Esther"
+    },
+    {
+        "numero": 18,
+        "mg": "Joba",
+        "fr": "Job",
+        "en": "Job"
+    },
+    {
+        "numero": 19,
+        "mg": "Salamo",
+        "fr": "Psaumes",
+        "en": "Psalms"
+    },
+    {
+        "numero": 20,
+        "mg": "Ohabolana",
+        "fr": "Proverbes",
+        "en": "Proverbs"
+    },
+    {
+        "numero": 21,
+        "mg": "Mpitoriteny",
+        "fr": "Ecclésiaste",
+        "en": "Ecclesiastes"
+    },
+    {
+        "numero": 22,
+        "mg": "Tononkira",
+        "fr": "Cantique des Cantiques",
+        "en": "Song of Solomon"
+    },
+    {
+        "numero": 23,
+        "mg": "Isaia",
+        "fr": "Ésaïe",
+        "en": "Isaiah"
+    },
+    {
+        "numero": 24,
+        "mg": "Jeremia",
+        "fr": "Jérémie",
+        "en": "Jeremiah"
+    },
+    {
+        "numero": 25,
+        "mg": "Fitomaniana",
+        "fr": "Lamentations",
+        "en": "Lamentations"
+    },
+    {
+        "numero": 26,
+        "mg": "Ezekiela",
+        "fr": "Ézéchiel",
+        "en": "Ezekiel"
+    },
+    {
+        "numero": 27,
+        "mg": "Daniela",
+        "fr": "Daniel",
+        "en": "Daniel"
+    },
+    {
+        "numero": 28,
+        "mg": "Hosea",
+        "fr": "Osée",
+        "en": "Hosea"
+    },
+    {
+        "numero": 29,
+        "mg": "Joela",
+        "fr": "Joël",
+        "en": "Joel"
+    },
+    {
+        "numero": 30,
+        "mg": "Amosa",
+        "fr": "Amos",
+        "en": "Amos"
+    },
+    {
+        "numero": 31,
+        "mg": "Obadia",
+        "fr": "Abdias",
+        "en": "Obadiah"
+    },
+    {
+        "numero": 32,
+        "mg": "Jona",
+        "fr": "Jonas",
+        "en": "Jonah"
+    },
+    {
+        "numero": 33,
+        "mg": "Mika",
+        "fr": "Michée",
+        "en": "Micah"
+    },
+    {
+        "numero": 34,
+        "mg": "Nahoma",
+        "fr": "Nahum",
+        "en": "Nahum"
+    },
+    {
+        "numero": 35,
+        "mg": "Habakoka",
+        "fr": "Habacuc",
+        "en": "Habakkuk"
+    },
+    {
+        "numero": 36,
+        "mg": "Zefania",
+        "fr": "Sophonie",
+        "en": "Zephaniah"
+    },
+    {
+        "numero": 37,
+        "mg": "Hagay",
+        "fr": "Aggée",
+        "en": "Haggai"
+    },
+    {
+        "numero": 38,
+        "mg": "Zakaria",
+        "fr": "Zacharie",
+        "en": "Zechariah"
+    },
+    {
+        "numero": 39,
+        "mg": "Malakia",
+        "fr": "Malachie",
+        "en": "Malachi"
+    },
+    {
+        "numero": 40,
+        "mg": "Matio",
+        "fr": "Matthieu",
+        "en": "Matthew"
+    },
+    {
+        "numero": 41,
+        "mg": "Marka",
+        "fr": "Marc",
+        "en": "Mark"
+    },
+    {
+        "numero": 42,
+        "mg": "Lioka",
+        "fr": "Luc",
+        "en": "Luke"
+    },
+    {
+        "numero": 43,
+        "mg": "Jaona",
+        "fr": "Jean",
+        "en": "John"
+    },
+    {
+        "numero": 44,
+        "mg": "Asan'ny Apostoly",
+        "fr": "Actes des Apôtres",
+        "en": "Acts"
+    },
+    {
+        "numero": 45,
+        "mg": "Romana",
+        "fr": "Romains",
+        "en": "Romans"
+    },
+    {
+        "numero": 46,
+        "mg": "1 Korintiana",
+        "fr": "1 Corinthiens",
+        "en": "1 Corinthians"
+    },
+    {
+        "numero": 47,
+        "mg": "2 Korintiana",
+        "fr": "2 Corinthiens",
+        "en": "2 Corinthians"
+    },
+    {
+        "numero": 48,
+        "mg": "Galatiana",
+        "fr": "Galates",
+        "en": "Galatians"
+    },
+    {
+        "numero": 49,
+        "mg": "Efesiana",
+        "fr": "Éphésiens",
+        "en": "Ephesians"
+    },
+    {
+        "numero": 50,
+        "mg": "Filipiana",
+        "fr": "Philippiens",
+        "en": "Philippians"
+    },
+    {
+        "numero": 51,
+        "mg": "Kolosiana",
+        "fr": "Colossiens",
+        "en": "Colossians"
+    },
+    {
+        "numero": 52,
+        "mg": "1 Tesalonianina",
+        "fr": "1 Thessaloniciens",
+        "en": "1 Thessalonians"
+    },
+    {
+        "numero": 53,
+        "mg": "2 Tesalonianina",
+        "fr": "2 Thessaloniciens",
+        "en": "2 Thessalonians"
+    },
+    {
+        "numero": 54,
+        "mg": "1 Timoty",
+        "fr": "1 Timothée",
+        "en": "1 Timothy"
+    },
+    {
+        "numero": 55,
+        "mg": "2 Timoty",
+        "fr": "2 Timothée",
+        "en": "2 Timothy"
+    },
+    {
+        "numero": 56,
+        "mg": "Titosy",
+        "fr": "Tite",
+        "en": "Titus"
+    },
+    {
+        "numero": 57,
+        "mg": "Filemona",
+        "fr": "Philémon",
+        "en": "Philemon"
+    },
+    {
+        "numero": 58,
+        "mg": "Hebreo",
+        "fr": "Hébreux",
+        "en": "Hebrews"
+    },
+    {
+        "numero": 59,
+        "mg": "Jakoba",
+        "fr": "Jacques",
+        "en": "James"
+    },
+    {
+        "numero": 60,
+        "mg": "1 Petera",
+        "fr": "1 Pierre",
+        "en": "1 Peter"
+    },
+    {
+        "numero": 61,
+        "mg": "2 Petera",
+        "fr": "2 Pierre",
+        "en": "2 Peter"
+    },
+    {
+        "numero": 62,
+        "mg": "1 Jaona",
+        "fr": "1 Jean",
+        "en": "1 John"
+    },
+    {
+        "numero": 63,
+        "mg": "2 Jaona",
+        "fr": "2 Jean",
+        "en": "2 John"
+    },
+    {
+        "numero": 64,
+        "mg": "3 Jaona",
+        "fr": "3 Jean",
+        "en": "3 John"
+    },
+    {
+        "numero": 65,
+        "mg": "Joda",
+        "fr": "Jude",
+        "en": "Jude"
+    },
+    {
+        "numero": 66,
+        "mg": "Apokalypsy",
+        "fr": "Apocalypse",
+        "en": "Revelation"
+    }
+]
