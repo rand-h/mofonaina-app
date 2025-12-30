@@ -1,0 +1,602 @@
+{
+  "title": "PERIKOPA FJKM TAONA 2025",
+  "year": 2025,
+  "theme": "Miorena tsara, aza miova (1Kor 15:58)",
+  "months": [
+    {
+      "month": "Janoary",
+      "theme": "LEHIBE NY FIANDRIANAN'ANDRIAMANITRA",
+      "sundays": [
+        {
+          "date": "01",
+          "name": "TAOM-BAOVAO",
+          "readings": [
+            "Deo. 11. 8-12",
+            "Mar. 1. 9-13",
+            "1 Jao. 2. 20-23"
+          ]
+        },
+        {
+          "date": "05",
+          "name": "Ala. EPIFANIA",
+          "readings": [
+            "Deo. 10. 12-19",
+            "Mat. 23. 16-28",
+            "Heb. 8. 1-6"
+          ]
+        },
+        {
+          "date": "12",
+          "name": "Ala. I man. Epifania",
+          "readings": [
+            "2 Tan. 20. 5-9",
+            "Mat. 5. 33-37",
+            "Heb. 12. 1-3"
+          ]
+        },
+        {
+          "date": "19",
+          "name": "Ala. II man. Epifania - FFKM",
+          "readings": [
+            "Isa. 66. 1-2",
+            "Jao. 2. 1-12",
+            "Asa 7. 44-50"
+          ]
+        },
+        {
+          "date": "26",
+          "name": "Ala. III man. Epifania - Marany Hoditra",
+          "readings": [
+            "Lev. 13. 9-17",
+            "Mar. 1. 40-45",
+            "Jak. 5. 13-18"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Febroary",
+      "theme": "MAMONTY NY TENIN'ANDRIAMANITRA",
+      "sundays": [
+        {
+          "date": "02",
+          "name": "Ala. IV man. Epifania",
+          "readings": [
+            "Zak. 8. 1-8",
+            "Jao. 5. 39-47",
+            "Efe. 1. 7-14"
+          ]
+        },
+        {
+          "date": "09",
+          "name": "Ala. V man. Epifania - Alahadin'ny Baiboly",
+          "readings": [
+            "Sal. 119. 41-48",
+            "Lio. 6. 46-49",
+            "2 Kor. 6. 1-10"
+          ]
+        },
+        {
+          "date": "16",
+          "name": "Ala. VI man. Epifania - Arsiva FJKM",
+          "readings": [
+            "Isa. 55. 6-13",
+            "Jao. 6. 66-71",
+            "2 Tim. 2. 8-13"
+          ]
+        },
+        {
+          "date": "23",
+          "name": "Ala. VII man. Epifania",
+          "readings": [
+            "Jos. 10. 8-11",
+            "Lio. 4. 31-37",
+            "1 Jao. 2. 12-14"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Martsa",
+      "theme": "MIANTSO HO AMIN'NY FIBEBAHANA NY TOMPO",
+      "sundays": [
+        {
+          "date": "02",
+          "name": "Ala. VIII man. Epifania",
+          "readings": [
+            "Oha. 1. 20-33",
+            "Mat.3. 7-12",
+            "Asa 26. 19-23"
+          ]
+        },
+        {
+          "date": "09",
+          "name": "Karemy I",
+          "readings": [
+            "2Mpa. 17. 6-13",
+            "Lio. 5. 27-32",
+            "Apo. 3. 1-6"
+          ]
+        },
+        {
+          "date": "16",
+          "name": "Karemy II - Sampanasa SAF",
+          "readings": [
+            "Hos. 14. 2-4",
+            "Mar. 1. 14-15",
+            "2 Tim. 2. 19-21"
+          ]
+        },
+        {
+          "date": "23",
+          "name": "Karemy III",
+          "readings": [
+            "2 Tan. 30. 1-9",
+            "Lio. 13. 1-5",
+            "Asa 3. 17-21"
+          ]
+        },
+        {
+          "date": "30",
+          "name": "Karemy IV - Asa fitandraisana FJKM",
+          "readings": [
+            "Joe. 2. 12-17",
+            "Jao. 12. 34-36",
+            "Apo. 2. 1-7"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Aprily",
+      "theme": "VELONA NY TOMPO",
+      "sundays": [
+        {
+          "date": "06",
+          "name": "Karemy V",
+          "readings": [
+            "2Sam. 22. 47-51",
+            "Mat. 26. 57-66",
+            "2Kor. 3. 1-6"
+          ]
+        },
+        {
+          "date": "13",
+          "name": "SAMPANDROFIA - Sampana Dorkasy",
+          "readings": [
+            "Sal. 84. 1-7",
+            "Mar. 11. 15-17",
+            "Asa 14. 11-18"
+          ]
+        },
+        {
+          "date": "17",
+          "name": "Alakamisy Masina",
+          "readings": [
+            "Fit. 3. 16-21",
+            "Mat. 26. 47-56",
+            "2Kor. 1. 3-7"
+          ]
+        },
+        {
+          "date": "18",
+          "name": "Zoma Masina",
+          "readings": [
+            "Sal.22. 1-8",
+            "Mat. 27. 45-56",
+            "Heb. 5. 7-10"
+          ]
+        },
+        {
+          "date": "20",
+          "name": "PASKA",
+          "readings": [
+            "Dan. 6. 26-29",
+            "Mat. 28. 1-17",
+            "Apo. 2. 8-11"
+          ]
+        },
+        {
+          "date": "27",
+          "name": "Ala. I man. Paska - Asa TOPAZA",
+          "readings": [
+            "Jer. 10. 6-16",
+            "Lio.8. 49-56",
+            "Rom.6. 8-14"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Mey",
+      "theme": "MITARI-DALANA NY FANAHY MASINA",
+      "sundays": [
+        {
+          "date": "04",
+          "name": "Ala. II man. Paska",
+          "readings": [
+            "Eze. 43. 1-9",
+            "Lio. 4. 1-13",
+            "Asa 16. 6-10"
+          ]
+        },
+        {
+          "date": "11",
+          "name": "Ala. III man. Paska - Sampana Lehilahy Kristiana",
+          "readings": [
+            "Zak. 4. 1-7",
+            "Mar. 13. 9-11",
+            "1 Pet. 1. 10-12"
+          ]
+        },
+        {
+          "date": "18",
+          "name": "Ala. IV man. Paska - Mpiasa Foibe FJKM",
+          "readings": [
+            "2Sam. 23. 1-7",
+            "Mat. 12. 22-30",
+            "1 Kor. 12. 1-11"
+          ]
+        },
+        {
+          "date": "25",
+          "name": "Ala. V man. Paska - Alahady FFPM",
+          "readings": [
+            "Mik. 3. 5-8",
+            "Jao. 16. 12-15",
+            "2 Kor. 3. 12-18"
+          ]
+        },
+        {
+          "date": "29",
+          "name": "Andro niakarana",
+          "readings": [
+            "Sal. 47. 1-9",
+            "Jao. 14. 25-31",
+            "Asa 1. 6-11"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Jona",
+      "theme": "AN'NY TOMPO NY FAHEFANA",
+      "sundays": [
+        {
+          "date": "01",
+          "name": "Ala. VI man. Paska",
+          "readings": [
+            "2 Tan.25. 1-12",
+            "Mat.10. 26-31",
+            "Jak.4. 11-17"
+          ]
+        },
+        {
+          "date": "08",
+          "name": "PENTEKOSTA - SEKOLY FJKM",
+          "readings": [
+            "Eze. 39. 25-29",
+            "Jao. 15. 26-27",
+            "Asa. 2. 14-21"
+          ]
+        },
+        {
+          "date": "15",
+          "name": "Ala. Trinite",
+          "readings": [
+            "Gen. 1. 1-13",
+            "Lio. 10. 17-20",
+            "Apo. 1. 1-8"
+          ]
+        },
+        {
+          "date": "22",
+          "name": "Ala. I man. Trinite - Sampana Vokovoko Manga",
+          "readings": [
+            "Oha. 23. 19-25",
+            "Lio. 12. 35-40",
+            "1 Kor. 10. 31-11. 1"
+          ]
+        },
+        {
+          "date": "29",
+          "name": "Ala. II man. Trinite",
+          "readings": [
+            "1 Sam. 2. 1-10",
+            "Jao. 10. 11-21",
+            "Apo. 5. 1-10"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Jolay",
+      "theme": "OLOMBOAANTSO NY MPINO",
+      "sundays": [
+        {
+          "date": "06",
+          "name": "Ala. III man. Trinite",
+          "readings": [
+            "Isa. 45. 1-7",
+            "Lio. 9. 1-6",
+            "1 Pet. 2. 18-25"
+          ]
+        },
+        {
+          "date": "13",
+          "name": "Ala. IV man. Trinite - Sampana Tanora Kristiana",
+          "readings": [
+            "1 Sam. 3. 1-9",
+            "Mat. 15. 32-39",
+            "1 Kor. 1. 18-25"
+          ]
+        },
+        {
+          "date": "20",
+          "name": "Ala. V man. Trinite - Sampana Fivondronana Laika",
+          "readings": [
+            "Amo. 7. 10-15",
+            "Mar. 10. 46-52",
+            "Gal. 1. 11-17"
+          ]
+        },
+        {
+          "date": "27",
+          "name": "Ala. VI man. Trinite - TPM sy IFRP",
+          "readings": [
+            "Jer. 1. 4-10",
+            "Mar. 3. 13-19",
+            "Rom. 1. 1-7"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Aogositra",
+      "theme": "MIFAMPAHERY NY MPINO",
+      "sundays": [
+        {
+          "date": "03",
+          "name": "Ala. VII man. Trinite",
+          "readings": [
+            "2 Sam. 10. 9-14",
+            "Jao. 14. 1-7",
+            "Efe. 6. 10-13"
+          ]
+        },
+        {
+          "date": "10",
+          "name": "Ala. VIII man. Trinite - KFTM (Martiora)",
+          "readings": [
+            "Dan. 10. 18-11.1",
+            "Lio. 22. 24-34",
+            "Jak. 5. 7-11"
+          ]
+        },
+        {
+          "date": "17",
+          "name": "Ala. IX man. Trinite - Aumônerie Nationale",
+          "readings": [
+            "1 Mpa. 17. 10-16",
+            "Lio. 5. 17-26",
+            "Asa 15. 22-29"
+          ]
+        },
+        {
+          "date": "24",
+          "name": "Ala. X man. Trinite - AKAFITA (Akany Fialofana Tangaina)",
+          "readings": [
+            "Sal. 31. 19-24",
+            "Jao. 14. 18-24",
+            "1 Kor. 16. 5-14"
+          ]
+        },
+        {
+          "date": "31",
+          "name": "Ala. XI man. Trinite",
+          "readings": [
+            "2 Tan. 19. 8-11",
+            "Mat. 18. 15-20",
+            "1 Tes. 5. 12-15"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Septambra",
+      "theme": "VELON'NY FINOANA NY MPINO",
+      "sundays": [
+        {
+          "date": "07",
+          "name": "Ala. XII man. Trinite",
+          "readings": [
+            "Gen. 15. 1-6",
+            "Jao. 9. 35-41",
+            "Rom. 4. 1-12"
+          ]
+        },
+        {
+          "date": "14",
+          "name": "Ala. XIII man. Trinite - Sampanasa A.F.F.",
+          "readings": [
+            "2Tan. 20. 20-23",
+            "Mat. 9. 27-31",
+            "Rom. 10. 5-10"
+          ]
+        },
+        {
+          "date": "21",
+          "name": "Ala. XIV man. Trinite",
+          "readings": [
+            "Eze.3. 18-21",
+            "Mar.9. 14-29",
+            "Asa. 3. 12-16"
+          ]
+        },
+        {
+          "date": "28",
+          "name": "Ala. XV man. Trinite - Sampanasa F.F.P.",
+          "readings": [
+            "Hab. 2. 3-4",
+            "Jao. 4. 46-54",
+            "Gal. 3. 10-14"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Oktobra",
+      "theme": "MAMORIA VOKATRA HO AN'NY TOMPO",
+      "sundays": [
+        {
+          "date": "05",
+          "name": "Ala. XVI man. Trinite",
+          "readings": [
+            "Neh. 13. 10-14",
+            "Mat. 22. 1-14",
+            "Asa 14. 19-28"
+          ]
+        },
+        {
+          "date": "12",
+          "name": "Ala. XVII man. Trinite - Radio Protestanta FFPM",
+          "readings": [
+            "1 Mpa. 18. 21-39",
+            "Lio. 3. 15-18",
+            "Asa 15. 30-35"
+          ]
+        },
+        {
+          "date": "19",
+          "name": "Ala. XVIII man. Trinite - Masera MAMRE",
+          "readings": [
+            "Jos. 2. 17-24",
+            "Jao. 4. 31-38",
+            "Efe. 1. 3-6"
+          ]
+        },
+        {
+          "date": "26",
+          "name": "Ala. XIX man. Trinite - SAFIF FJKM- Reformasiona",
+          "readings": [
+            "Isa. 66. 18-24",
+            "Jao. 11. 47-53",
+            "1Kor. 9. 19-23"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Novambra",
+      "theme": "MAHANDRASA, HO AVY NY TOMPO",
+      "sundays": [
+        {
+          "date": "02",
+          "name": "Ala. XX man. Trinite",
+          "readings": [
+            "Hos. 12. 4-7",
+            "Mat. 16. 24-28",
+            "Rom. 8. 18-25"
+          ]
+        },
+        {
+          "date": "09",
+          "name": "Ala. XXI man Trinite - Fitantanana ny Fananana FJKM (FiFa)",
+          "readings": [
+            "2 Mpa. 22. 1-7",
+            "Lio. 12. 41-48",
+            "1Kor. 4. 1-5"
+          ]
+        },
+        {
+          "date": "16",
+          "name": "Ala. XXII man. Trinite - SAMPATI",
+          "readings": [
+            "Zef. 3. 6-8",
+            "Mar. 13. 33-37",
+            "1Pet. 4. 1-6"
+          ]
+        },
+        {
+          "date": "23",
+          "name": "Ala. XXIII man.Trinite - KPMS",
+          "readings": [
+            "Mik. 7. 7-10",
+            "Lio. 21. 5-11",
+            "1Jao. 2. 24-29"
+          ]
+        },
+        {
+          "date": "30",
+          "name": "Advento I",
+          "readings": [
+            "Sal. 75. 1-10",
+            "Lio. 21. 12-19",
+            "Apo. 3. 7-13"
+          ]
+        }
+      ]
+    },
+    {
+      "month": "Desambra",
+      "theme": "MANANTENA AN'ANDRIAMANITRA",
+      "sundays": [
+        {
+          "date": "07",
+          "name": "Advento II",
+          "readings": [
+            "Job. 11. 13-20",
+            "Jao.3. 16-21",
+            "1Pet.1. 17-21"
+          ]
+        },
+        {
+          "date": "14",
+          "name": "Advento III - Sampana Sekoly Alahady",
+          "readings": [
+            "Sal. 131. 1-3",
+            "Lio. 10. 21-24",
+            "1Kor.14. 20-22"
+          ]
+        },
+        {
+          "date": "21",
+          "name": "Advento IV",
+          "readings": [
+            "Jer. 14. 19-22",
+            "Lio. 2. 25-32",
+            "Tit. 2. 11-15"
+          ]
+        },
+        {
+          "date": "25",
+          "name": "KRISMASY",
+          "readings": [
+            "Isa. 11. 10-16",
+            "Lio. 2. 8-14",
+            "Heb. 6. 4-12"
+          ]
+        },
+        {
+          "date": "28",
+          "name": "Ala. man Krismasy - Fiantsoana - SEFALA",
+          "readings": [
+            "Fit.3. 22-33",
+            "Lio. 2. 36-38",
+            "2 Pet. 3. 11-16"
+          ]
+        }
+      ]
+    }
+  ],
+  "liturgical_seasons": [
+    "PASKA",
+    "PENTEKOSTA",
+    "TRINITE",
+    "ADVENTO",
+    "EPIFANIA",
+    "KRISMASY",
+    "KAREMY"
+  ],
+  "source": "PERIKOPA FJKM TAONA 2025"
+}

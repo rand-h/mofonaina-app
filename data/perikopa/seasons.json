@@ -1,0 +1,18 @@
+{
+  "2025": [
+    { "season": "epifania", "start": "01 Jan", "end": "08 Mar" },
+    { "season": "karemy",   "start": "09 Mar", "end": "19 Mar" },
+    { "season": "paska",    "start": "20 Mar", "end": "07 Jon" },
+    { "season": "pentekosta", "start": "08 Jon", "end": "29 Nov" },
+    { "season": "advento",  "start": "30 Nov", "end": "24 Dec" },
+    { "season": "krismasy", "start": "25 Dec", "end": "31 Dec" }
+  ],
+  "2026": [
+    { "season": "epifania", "start": "01 Jan", "end": "21 Feb" },
+    { "season": "karemy",   "start": "22 Feb", "end": "04 Apr" },
+    { "season": "paska",    "start": "05 Apr", "end": "23 May" },
+    { "season": "pentekosta", "start": "24 May", "end": "28 Nov" },
+    { "season": "advento",  "start": "29 Nov", "end": "24 Dec" },
+    { "season": "krismasy", "start": "25 Dec", "end": "31 Dec" }
+  ]
+}

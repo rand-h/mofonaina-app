@@ -1,0 +1,1561 @@
+{
+    "taona": 2025,
+    "isambolana": [
+        {
+            "volana": "Aogositra",
+            "laharana": 8,
+            "lohahevitra": "MIFAMPAHERY NY MPINO",
+            "tsianjery": "1 Korintiana 16:14",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Deo 31:1-8"
+                },
+                {
+                    "day": 2,
+                    "verse": "Rom 5:1-5"
+                },
+                {
+                    "day": 3,
+                    "verse": "Jao 14:1-7"
+                },
+                {
+                    "day": 4,
+                    "verse": "Sal 46:1-11"
+                },
+                {
+                    "day": 5,
+                    "verse": "2 Tim 2:1-13"
+                },
+                {
+                    "day": 6,
+                    "verse": "2 Sam 10:9-14"
+                },
+                {
+                    "day": 7,
+                    "verse": "Rom 14:1-12"
+                },
+                {
+                    "day": 8,
+                    "verse": "Efe 6:10-13"
+                },
+                {
+                    "day": 9,
+                    "verse": "2 Mpa 6:8-17"
+                },
+                {
+                    "day": 10,
+                    "verse": "Lio 22:24-34"
+                },
+                {
+                    "day": 11,
+                    "verse": "Mat 18:15-20"
+                },
+                {
+                    "day": 12,
+                    "verse": "Isa 35:1-4"
+                },
+                {
+                    "day": 13,
+                    "verse": "Dan 10:18-11:1"
+                },
+                {
+                    "day": 14,
+                    "verse": "Asa 4:32-37"
+                },
+                {
+                    "day": 15,
+                    "verse": "Hag 2:1-9"
+                },
+                {
+                    "day": 16,
+                    "verse": "Jak 5:7-11"
+                },
+                {
+                    "day": 17,
+                    "verse": "1 Mpa 17:10-16"
+                },
+                {
+                    "day": 18,
+                    "verse": "Mat 28:18-20"
+                },
+                {
+                    "day": 19,
+                    "verse": "1 Tes 5:12-15"
+                },
+                {
+                    "day": 20,
+                    "verse": "Asa 15:30-35"
+                },
+                {
+                    "day": 21,
+                    "verse": "Gen 45:4-13"
+                },
+                {
+                    "day": 22,
+                    "verse": "Lio 5:17-26"
+                },
+                {
+                    "day": 23,
+                    "verse": "1 Sam 17:25-37"
+                },
+                {
+                    "day": 24,
+                    "verse": "1 Kor 16:5-14"
+                },
+                {
+                    "day": 25,
+                    "verse": "Nom 6:22-27"
+                },
+                {
+                    "day": 26,
+                    "verse": "Jao 14:18-24"
+                },
+                {
+                    "day": 27,
+                    "verse": "Fil 4:1-9"
+                },
+                {
+                    "day": 28,
+                    "verse": "1 Tan 28:20-21"
+                },
+                {
+                    "day": 29,
+                    "verse": "Sal 31:19-24"
+                },
+                {
+                    "day": 30,
+                    "verse": "Rom 8:26-30"
+                },
+                {
+                    "day": 31,
+                    "verse": "2 Tan 19:8-11"
+                }
+            ]
+        },
+        {
+            "volana": "Aprily",
+            "laharana": 4,
+            "lohahevitra": "VELONA NY TOMPO",
+            "tsianjery": "Hebreo 5:9",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Sal 28:1-9"
+                },
+                {
+                    "day": 2,
+                    "verse": "Lio 24:1-7"
+                },
+                {
+                    "day": 3,
+                    "verse": "Dan 12:1-3"
+                },
+                {
+                    "day": 4,
+                    "verse": "Mat 24:23-31"
+                },
+                {
+                    "day": 5,
+                    "verse": "1Jao 2:15-17"
+                },
+                {
+                    "day": 6,
+                    "verse": "Mat 26:57-66"
+                },
+                {
+                    "day": 7,
+                    "verse": "Nom 17:9-15"
+                },
+                {
+                    "day": 8,
+                    "verse": "Mar 12:24-27"
+                },
+                {
+                    "day": 9,
+                    "verse": "2Kor 3:1-6"
+                },
+                {
+                    "day": 10,
+                    "verse": "Jao 6:47-58"
+                },
+                {
+                    "day": 11,
+                    "verse": "2Sam 22:47-51"
+                },
+                {
+                    "day": 12,
+                    "verse": "Apo 22:1-5"
+                },
+                {
+                    "day": 13,
+                    "verse": "Asa 14:11-18"
+                },
+                {
+                    "day": 14,
+                    "verse": "Lio 24:44-49"
+                },
+                {
+                    "day": 15,
+                    "verse": "1Tes 4:13-18"
+                },
+                {
+                    "day": 16,
+                    "verse": "Sal 84:1-7"
+                },
+                {
+                    "day": 17,
+                    "verse": "Mat 26:47-56"
+                },
+                {
+                    "day": 18,
+                    "verse": "Mat 27:45-56"
+                },
+                {
+                    "day": 19,
+                    "verse": "2Kor 1:3-7"
+                },
+                {
+                    "day": 20,
+                    "verse": "Dan 6:26-29"
+                },
+                {
+                    "day": 21,
+                    "verse": "Fit 3:16-21"
+                },
+                {
+                    "day": 22,
+                    "verse": "Sal 22:1-8"
+                },
+                {
+                    "day": 23,
+                    "verse": "Mat 28:1-17"
+                },
+                {
+                    "day": 24,
+                    "verse": "Heb 5:7-10"
+                },
+                {
+                    "day": 25,
+                    "verse": "Apo 2:8-11"
+                },
+                {
+                    "day": 26,
+                    "verse": "Mar 11:15-17"
+                },
+                {
+                    "day": 27,
+                    "verse": "Lio 8:49-56"
+                },
+                {
+                    "day": 28,
+                    "verse": "Jer 10:6-16"
+                },
+                {
+                    "day": 29,
+                    "verse": "Mpits 15:14-20"
+                },
+                {
+                    "day": 30,
+                    "verse": "Rom 6:8-14"
+                }
+            ]
+        },
+        {
+            "volana": "Desambra",
+            "laharana": 12,
+            "lohahevitra": "MANANTENÀ AN’ANDRIAMANITRA",
+            "tsianjery": "Fitomaniana 3:24",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Sal 37:1-7"
+                },
+                {
+                    "day": 2,
+                    "verse": "Oha 23:15-18"
+                },
+                {
+                    "day": 3,
+                    "verse": "Sal 73:25-28"
+                },
+                {
+                    "day": 4,
+                    "verse": "Hab 3:17-19"
+                },
+                {
+                    "day": 5,
+                    "verse": "Jer 31:15-20"
+                },
+                {
+                    "day": 6,
+                    "verse": "Apo 22:17-21"
+                },
+                {
+                    "day": 7,
+                    "verse": "Jao 3:16-21"
+                },
+                {
+                    "day": 8,
+                    "verse": "Sal 130:1-8"
+                },
+                {
+                    "day": 9,
+                    "verse": "Job 11:13-20"
+                },
+                {
+                    "day": 10,
+                    "verse": "Jer 14:19-22"
+                },
+                {
+                    "day": 11,
+                    "verse": "1 Tim 5:1-8"
+                },
+                {
+                    "day": 12,
+                    "verse": "1 Pet 1:17-21"
+                },
+                {
+                    "day": 13,
+                    "verse": "Rom 15:7-13"
+                },
+                {
+                    "day": 14,
+                    "verse": "Sal 131:1-3"
+                },
+                {
+                    "day": 15,
+                    "verse": "Kol 1:3-8"
+                },
+                {
+                    "day": 16,
+                    "verse": "Lio 10:21-24"
+                },
+                {
+                    "day": 17,
+                    "verse": "1 Tim 4:6-10"
+                },
+                {
+                    "day": 18,
+                    "verse": "Sal 146:1-10"
+                },
+                {
+                    "day": 19,
+                    "verse": "1Kor 14:20-22"
+                },
+                {
+                    "day": 20,
+                    "verse": "Asa 24:10-21"
+                },
+                {
+                    "day": 21,
+                    "verse": "Lio 2:25-32"
+                },
+                {
+                    "day": 22,
+                    "verse": "Sal 33:18-22"
+                },
+                {
+                    "day": 23,
+                    "verse": "Tit 2:11-15"
+                },
+                {
+                    "day": 24,
+                    "verse": "Sal 147:1-11"
+                },
+                {
+                    "day": 25,
+                    "verse": "Lio 2:8-14"
+                },
+                {
+                    "day": 26,
+                    "verse": "Isa 11:10-16"
+                },
+                {
+                    "day": 27,
+                    "verse": "Heb 6:4-12"
+                },
+                {
+                    "day": 28,
+                    "verse": "Lio 2:36-38"
+                },
+                {
+                    "day": 29,
+                    "verse": "Fit 3:22-33"
+                },
+                {
+                    "day": 30,
+                    "verse": "2 Pet 3:11-16"
+                },
+                {
+                    "day": 31,
+                    "verse": "Isa 40:27-31"
+                }
+            ]
+        },
+        {
+            "volana": "Febroary",
+            "laharana": 2,
+            "lohahevitra": "MAMONJY NY TENIN'ANDRIAMANITRA",
+            "tsianjery": "Jaona 6:70",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Lio 6:46-49"
+                },
+                {
+                    "day": 2,
+                    "verse": "Zak 8:1-8"
+                },
+                {
+                    "day": 3,
+                    "verse": "Heb 4:12-13"
+                },
+                {
+                    "day": 4,
+                    "verse": "Nom 24:1-9"
+                },
+                {
+                    "day": 5,
+                    "verse": "Efe 1:7-14"
+                },
+                {
+                    "day": 6,
+                    "verse": "Sal 40:1-10"
+                },
+                {
+                    "day": 7,
+                    "verse": "Jao 5:39-47"
+                },
+                {
+                    "day": 8,
+                    "verse": "Oha 3:1-12"
+                },
+                {
+                    "day": 9,
+                    "verse": "2Kor 6:1-10"
+                },
+                {
+                    "day": 10,
+                    "verse": "Gen 21:9-19"
+                },
+                {
+                    "day": 11,
+                    "verse": "Jao 20:11-18"
+                },
+                {
+                    "day": 12,
+                    "verse": "Kol 3:16-21"
+                },
+                {
+                    "day": 13,
+                    "verse": "Efe 6:1-4"
+                },
+                {
+                    "day": 14,
+                    "verse": "Jao 2:1-12"
+                },
+                {
+                    "day": 15,
+                    "verse": "Oha 4:20-27"
+                },
+                {
+                    "day": 16,
+                    "verse": "Jao 6:66-71"
+                },
+                {
+                    "day": 17,
+                    "verse": "Deo 28:1-10"
+                },
+                {
+                    "day": 18,
+                    "verse": "Sal 119:105-112"
+                },
+                {
+                    "day": 19,
+                    "verse": "Isa 55:6-13"
+                },
+                {
+                    "day": 20,
+                    "verse": "Mat 13:10-15"
+                },
+                {
+                    "day": 21,
+                    "verse": "2Tim 2:8-13"
+                },
+                {
+                    "day": 22,
+                    "verse": "Oha 22:17-21"
+                },
+                {
+                    "day": 23,
+                    "verse": "1 Jao 2:12-14"
+                },
+                {
+                    "day": 24,
+                    "verse": "Sal 138:1-8"
+                },
+                {
+                    "day": 25,
+                    "verse": "Sal 119:41-48"
+                },
+                {
+                    "day": 26,
+                    "verse": "Lio 4:31-37"
+                },
+                {
+                    "day": 27,
+                    "verse": "Isa 40:9-11"
+                },
+                {
+                    "day": 28,
+                    "verse": "Jos 10:8-11"
+                }
+            ]
+        },
+        {
+            "volana": "Janoary",
+            "laharana": 1,
+            "lohahevitra": "LEHIBE NY FIANDRIANAN’ANDRIAMANITRA",
+            "tsianjery": "Jaona 2:23",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Deo 11:8-12"
+                },
+                {
+                    "day": 2,
+                    "verse": "Sal 145:1-7"
+                },
+                {
+                    "day": 3,
+                    "verse": "Mar 1:9-13"
+                },
+                {
+                    "day": 4,
+                    "verse": "1Jao 2:20-23"
+                },
+                {
+                    "day": 5,
+                    "verse": "Heb 8:1-6"
+                },
+                {
+                    "day": 6,
+                    "verse": "Efe 4:1-8"
+                },
+                {
+                    "day": 7,
+                    "verse": "Rom 1:18-25"
+                },
+                {
+                    "day": 8,
+                    "verse": "Mat 23:16-28"
+                },
+                {
+                    "day": 9,
+                    "verse": "Mat 13:24-30"
+                },
+                {
+                    "day": 10,
+                    "verse": "Deo 10:12-19"
+                },
+                {
+                    "day": 11,
+                    "verse": "Sal 111:1-10"
+                },
+                {
+                    "day": 12,
+                    "verse": "Mat 5:33-37"
+                },
+                {
+                    "day": 13,
+                    "verse": "Job 42:1-6"
+                },
+                {
+                    "day": 14,
+                    "verse": "Sal 95:1-5"
+                },
+                {
+                    "day": 15,
+                    "verse": "2Tan 20:5-9"
+                },
+                {
+                    "day": 16,
+                    "verse": "Apo 15:2-4"
+                },
+                {
+                    "day": 17,
+                    "verse": "Heb 12:1-3"
+                },
+                {
+                    "day": 18,
+                    "verse": "Kol 1:15-20"
+                },
+                {
+                    "day": 19,
+                    "verse": "Isa 66:1-2"
+                },
+                {
+                    "day": 20,
+                    "verse": "Amo 9:13-15"
+                },
+                {
+                    "day": 21,
+                    "verse": "Sal 104:1-5"
+                },
+                {
+                    "day": 22,
+                    "verse": "Asa 7:44-50"
+                },
+                {
+                    "day": 23,
+                    "verse": "Eks 15:1-2"
+                },
+                {
+                    "day": 24,
+                    "verse": "Jao 2:1-12"
+                },
+                {
+                    "day": 25,
+                    "verse": "Isa 6:1-8"
+                },
+                {
+                    "day": 26,
+                    "verse": "Jak 5:13-18"
+                },
+                {
+                    "day": 27,
+                    "verse": "Fit 5:19-22"
+                },
+                {
+                    "day": 28,
+                    "verse": "Sal 92:1-6"
+                },
+                {
+                    "day": 29,
+                    "verse": "Mar 1:40-45"
+                },
+                {
+                    "day": 30,
+                    "verse": "Apo 3:16-22"
+                },
+                {
+                    "day": 31,
+                    "verse": "Lev 13:9-17"
+                }
+            ]
+        },
+        {
+            "volana": "Jolay",
+            "laharana": 7,
+            "lohahevitra": "OLOM-BOAANTSO NY MPINO",
+            "tsianjery": "1 Samoela 3:9",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Isa 41:8-13"
+                },
+                {
+                    "day": 2,
+                    "verse": "Asa 9:1-19"
+                },
+                {
+                    "day": 3,
+                    "verse": "Mar 1:16-20"
+                },
+                {
+                    "day": 4,
+                    "verse": "1Tes 2:1-12"
+                },
+                {
+                    "day": 5,
+                    "verse": "1Tim 6:11-16"
+                },
+                {
+                    "day": 6,
+                    "verse": "Lio 9:1-6"
+                },
+                {
+                    "day": 7,
+                    "verse": "Asa 13:1-5"
+                },
+                {
+                    "day": 8,
+                    "verse": "Rom 9:19-26"
+                },
+                {
+                    "day": 9,
+                    "verse": "1Pet 2:18-25"
+                },
+                {
+                    "day": 10,
+                    "verse": "Fil 3:12-14"
+                },
+                {
+                    "day": 11,
+                    "verse": "Isa 45:1-7"
+                },
+                {
+                    "day": 12,
+                    "verse": "1Tes 4:1-8"
+                },
+                {
+                    "day": 13,
+                    "verse": "1Sam 3:1-9"
+                },
+                {
+                    "day": 14,
+                    "verse": "Lio 18:15-17"
+                },
+                {
+                    "day": 15,
+                    "verse": "Efe 4:1-6"
+                },
+                {
+                    "day": 16,
+                    "verse": "Mat 15:32-39"
+                },
+                {
+                    "day": 17,
+                    "verse": "Isa 43:1-7"
+                },
+                {
+                    "day": 18,
+                    "verse": "1Kor 1:18-25"
+                },
+                {
+                    "day": 19,
+                    "verse": "1Pet 2:7-10"
+                },
+                {
+                    "day": 20,
+                    "verse": "Gal 1:11-17"
+                },
+                {
+                    "day": 21,
+                    "verse": "Eks 3:1-10"
+                },
+                {
+                    "day": 22,
+                    "verse": "2Tim 1:6-12"
+                },
+                {
+                    "day": 23,
+                    "verse": "Mar 10:46-52"
+                },
+                {
+                    "day": 24,
+                    "verse": "1Pet 1:13-21"
+                },
+                {
+                    "day": 25,
+                    "verse": "Amo 7:10-15"
+                },
+                {
+                    "day": 26,
+                    "verse": "Mat 9:9-13"
+                },
+                {
+                    "day": 27,
+                    "verse": "Jer 1:4-10"
+                },
+                {
+                    "day": 28,
+                    "verse": "1Jao 3:1-2"
+                },
+                {
+                    "day": 29,
+                    "verse": "Rom 1:1-7"
+                },
+                {
+                    "day": 30,
+                    "verse": "Eze 2:1-3:3"
+                },
+                {
+                    "day": 31,
+                    "verse": "Mar 3:13-19"
+                }
+            ]
+        },
+        {
+            "volana": "Jona",
+            "laharana": 6,
+            "lohahevitra": "AN'NY TOMPO NY FAHEFANA",
+            "tsianjery": "Lioka 10:20",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "2Tan 25:1-12"
+                },
+                {
+                    "day": 2,
+                    "verse": "Mat 8:1-4"
+                },
+                {
+                    "day": 3,
+                    "verse": "Mik 4:11-14"
+                },
+                {
+                    "day": 4,
+                    "verse": "Mat 10:26-31"
+                },
+                {
+                    "day": 5,
+                    "verse": "Sal 24:7-10"
+                },
+                {
+                    "day": 6,
+                    "verse": "Jak 4:11-17"
+                },
+                {
+                    "day": 7,
+                    "verse": "Jer 32:16-25"
+                },
+                {
+                    "day": 8,
+                    "verse": "Jao 15:26-27"
+                },
+                {
+                    "day": 9,
+                    "verse": "Jer 1:11-19"
+                },
+                {
+                    "day": 10,
+                    "verse": "Lio 19:29-36"
+                },
+                {
+                    "day": 11,
+                    "verse": "Eze 39:25-29"
+                },
+                {
+                    "day": 12,
+                    "verse": "Isa 45:1-8"
+                },
+                {
+                    "day": 13,
+                    "verse": "Asa 2:14-21"
+                },
+                {
+                    "day": 14,
+                    "verse": "Eks 34:1-9"
+                },
+                {
+                    "day": 15,
+                    "verse": "Apo 1:1-8"
+                },
+                {
+                    "day": 16,
+                    "verse": "Sal 104:24-32"
+                },
+                {
+                    "day": 17,
+                    "verse": "Jao 11:32-46"
+                },
+                {
+                    "day": 18,
+                    "verse": "Gen 1:1-13"
+                },
+                {
+                    "day": 19,
+                    "verse": "Deo 20:1-4"
+                },
+                {
+                    "day": 20,
+                    "verse": "Lio 10:17-20"
+                },
+                {
+                    "day": 21,
+                    "verse": "Eks 15:1-18"
+                },
+                {
+                    "day": 22,
+                    "verse": "Oha 23:19-25"
+                },
+                {
+                    "day": 23,
+                    "verse": "Mar 3:1-6"
+                },
+                {
+                    "day": 24,
+                    "verse": "Sal 66:5-7"
+                },
+                {
+                    "day": 25,
+                    "verse": "Lio 12:35-40"
+                },
+                {
+                    "day": 26,
+                    "verse": "Mal 1:1-5"
+                },
+                {
+                    "day": 27,
+                    "verse": "1Kor 10:31-11:1"
+                },
+                {
+                    "day": 28,
+                    "verse": "Apo 5:1-10"
+                },
+                {
+                    "day": 29,
+                    "verse": "Jao 10:11-21"
+                },
+                {
+                    "day": 30,
+                    "verse": "1Sam 2:11-21"
+                }
+            ]
+        },
+        {
+            "volana": "Martsa",
+            "laharana": 3,
+            "lohahevitra": "MIANTSO HO AMIN'NY FIBEBAHANA NY TOMPO",
+            "tsianjery": "Hosea 14:3",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Mat 3:1-6"
+                },
+                {
+                    "day": 2,
+                    "verse": "Oha 1:20-23"
+                },
+                {
+                    "day": 3,
+                    "verse": "Eze 14:1-8"
+                },
+                {
+                    "day": 4,
+                    "verse": "Eze 18:27-32"
+                },
+                {
+                    "day": 5,
+                    "verse": "Mat 3:7-12"
+                },
+                {
+                    "day": 6,
+                    "verse": "2Kor 7:5-12"
+                },
+                {
+                    "day": 7,
+                    "verse": "Asa 26:19-23"
+                },
+                {
+                    "day": 8,
+                    "verse": "Mat 4:12-17"
+                },
+                {
+                    "day": 9,
+                    "verse": "Lio 5:27-32"
+                },
+                {
+                    "day": 10,
+                    "verse": "Apo 2:12-17"
+                },
+                {
+                    "day": 11,
+                    "verse": "Mar 1:1-8"
+                },
+                {
+                    "day": 12,
+                    "verse": "Apo 3:1-6"
+                },
+                {
+                    "day": 13,
+                    "verse": "Asa 5:29-32"
+                },
+                {
+                    "day": 14,
+                    "verse": "2Mpa 17:6-13"
+                },
+                {
+                    "day": 15,
+                    "verse": "Mar 4:10-20"
+                },
+                {
+                    "day": 16,
+                    "verse": "2Tim 2:19-21"
+                },
+                {
+                    "day": 17,
+                    "verse": "2Pet 3:5-10"
+                },
+                {
+                    "day": 18,
+                    "verse": "Lio 24:44-53"
+                },
+                {
+                    "day": 19,
+                    "verse": "Hos 14:2-14"
+                },
+                {
+                    "day": 20,
+                    "verse": "Asa 8:18-24"
+                },
+                {
+                    "day": 21,
+                    "verse": "Mar 1:14-15"
+                },
+                {
+                    "day": 22,
+                    "verse": "Apo 2:12-17"
+                },
+                {
+                    "day": 23,
+                    "verse": "2Tan 30:1-9"
+                },
+                {
+                    "day": 24,
+                    "verse": "Lio 3:7-14"
+                },
+                {
+                    "day": 25,
+                    "verse": "Heb 6:1-8"
+                },
+                {
+                    "day": 26,
+                    "verse": "Lio 13:1-5"
+                },
+                {
+                    "day": 27,
+                    "verse": "2Tim 2:22-26"
+                },
+                {
+                    "day": 28,
+                    "verse": "Asa 3:17-21"
+                },
+                {
+                    "day": 29,
+                    "verse": "Apo 3:14-22"
+                },
+                {
+                    "day": 30,
+                    "verse": "Joe 2:12-17"
+                },
+                {
+                    "day": 31,
+                    "verse": "Jao 12:34-36"
+                }
+            ]
+        },
+        {
+            "volana": "May",
+            "laharana": 5,
+            "lohahevitra": "MITARI-DALANA NY FANAHY MASINA",
+            "tsianjery": "Lioka 4:4",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Lio 1:67-80"
+                },
+                {
+                    "day": 2,
+                    "verse": "Mpits 6:33-40"
+                },
+                {
+                    "day": 3,
+                    "verse": "Sal 143:7-12"
+                },
+                {
+                    "day": 4,
+                    "verse": "Eze 43:1-9"
+                },
+                {
+                    "day": 5,
+                    "verse": "Asa 2:1-11"
+                },
+                {
+                    "day": 6,
+                    "verse": "Joe 3:1-5"
+                },
+                {
+                    "day": 7,
+                    "verse": "Lio 4:1-13"
+                },
+                {
+                    "day": 8,
+                    "verse": "Gen 41:37-40"
+                },
+                {
+                    "day": 9,
+                    "verse": "Asa 16:6-10"
+                },
+                {
+                    "day": 10,
+                    "verse": "2 Tan 20:14-17"
+                },
+                {
+                    "day": 11,
+                    "verse": "Mar 13:9-11"
+                },
+                {
+                    "day": 12,
+                    "verse": "Mpits 3:7-11"
+                },
+                {
+                    "day": 13,
+                    "verse": "Asa 8:26-40"
+                },
+                {
+                    "day": 14,
+                    "verse": "Zak 4:1-7"
+                },
+                {
+                    "day": 15,
+                    "verse": "Mat 1:18-25"
+                },
+                {
+                    "day": 16,
+                    "verse": "1 Pet 1:10-12"
+                },
+                {
+                    "day": 17,
+                    "verse": "Eze 11:1-13"
+                },
+                {
+                    "day": 18,
+                    "verse": "1 Kor 12:1-11"
+                },
+                {
+                    "day": 19,
+                    "verse": "Rom 8:9-17"
+                },
+                {
+                    "day": 20,
+                    "verse": "1 Sam 16:11-13"
+                },
+                {
+                    "day": 21,
+                    "verse": "Mat 12:22-30"
+                },
+                {
+                    "day": 22,
+                    "verse": "Lio 2:21-35"
+                },
+                {
+                    "day": 23,
+                    "verse": "2 Sam 23:1-7"
+                },
+                {
+                    "day": 24,
+                    "verse": "Asa 4:23-31"
+                },
+                {
+                    "day": 25,
+                    "verse": "Mik 3:5-8"
+                },
+                {
+                    "day": 26,
+                    "verse": "Jao 16:12-15"
+                },
+                {
+                    "day": 27,
+                    "verse": "Mpits 11:29-32"
+                },
+                {
+                    "day": 28,
+                    "verse": "2 Kor 3:12-18"
+                },
+                {
+                    "day": 29,
+                    "verse": "Jao 14:25-31"
+                },
+                {
+                    "day": 30,
+                    "verse": "Sal 47:1-9"
+                },
+                {
+                    "day": 31,
+                    "verse": "Asa 1:6-11"
+                }
+            ]
+        },
+        {
+            "volana": "Novambra",
+            "laharana": 11,
+            "lohahevitra": "MAHANDRASASA, HO AVY NY TOMPO",
+            "tsianjery": "Hosea 12:7",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Jao 14:1-7"
+                },
+                {
+                    "day": 2,
+                    "verse": "Hos 12:4-7"
+                },
+                {
+                    "day": 3,
+                    "verse": "Sal 25:1-7"
+                },
+                {
+                    "day": 4,
+                    "verse": "Mat 16:24-28"
+                },
+                {
+                    "day": 5,
+                    "verse": "1 Kor 1:10-13"
+                },
+                {
+                    "day": 6,
+                    "verse": "Isa 40:27-31"
+                },
+                {
+                    "day": 7,
+                    "verse": "Rom 8:18-25"
+                },
+                {
+                    "day": 8,
+                    "verse": "Jao 14:27-31"
+                },
+                {
+                    "day": 9,
+                    "verse": "Lio 12:41-48"
+                },
+                {
+                    "day": 10,
+                    "verse": "Apo 2:1-7"
+                },
+                {
+                    "day": 11,
+                    "verse": "1 Kor 4:1-5"
+                },
+                {
+                    "day": 12,
+                    "verse": "2 Pet 3:8-10"
+                },
+                {
+                    "day": 13,
+                    "verse": "2Mpa 22:1-7"
+                },
+                {
+                    "day": 14,
+                    "verse": "Heb 10:32-39"
+                },
+                {
+                    "day": 15,
+                    "verse": "Sal 27:1-14"
+                },
+                {
+                    "day": 16,
+                    "verse": "1Pet 4:1-6"
+                },
+                {
+                    "day": 17,
+                    "verse": "Lio 12:35-40"
+                },
+                {
+                    "day": 18,
+                    "verse": "Zef 3:6-8"
+                },
+                {
+                    "day": 19,
+                    "verse": "Tit 2:11-14"
+                },
+                {
+                    "day": 20,
+                    "verse": "Joda 1:17-23"
+                },
+                {
+                    "day": 21,
+                    "verse": "Mar 13:33-37"
+                },
+                {
+                    "day": 22,
+                    "verse": "Fit 3:25-27"
+                },
+                {
+                    "day": 23,
+                    "verse": "Mik 7:7-10"
+                },
+                {
+                    "day": 24,
+                    "verse": "Lio 21:5-11"
+                },
+                {
+                    "day": 25,
+                    "verse": "1 Jao 2:24-29"
+                },
+                {
+                    "day": 26,
+                    "verse": "Sal 37:1-7"
+                },
+                {
+                    "day": 27,
+                    "verse": "Hos 12:1-7"
+                },
+                {
+                    "day": 28,
+                    "verse": "Lio 21:12-19"
+                },
+                {
+                    "day": 29,
+                    "verse": "Apo 3:7-13"
+                },
+                {
+                    "day": 30,
+                    "verse": "Sal 75:1-7"
+                }
+            ]
+        },
+        {
+            "volana": "Oktobra",
+            "laharana": 10,
+            "lohahevitra": "MAMORIA VOKATRA HO AN'NY TOMPO",
+            "tsianjery": "Jaona 4:36",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Asa 5:1-11"
+                },
+                {
+                    "day": 2,
+                    "verse": "Lev 23:39-44"
+                },
+                {
+                    "day": 3,
+                    "verse": "Kol 2:16-23"
+                },
+                {
+                    "day": 4,
+                    "verse": "Mpits 2:1-5"
+                },
+                {
+                    "day": 5,
+                    "verse": "Mat 22:1-14"
+                },
+                {
+                    "day": 6,
+                    "verse": "1Tes 3:11-13"
+                },
+                {
+                    "day": 7,
+                    "verse": "Nom 24:1-14"
+                },
+                {
+                    "day": 8,
+                    "verse": "Neh 13:10-14"
+                },
+                {
+                    "day": 9,
+                    "verse": "Lio 10:1-7"
+                },
+                {
+                    "day": 10,
+                    "verse": "Asa 14:19-28"
+                },
+                {
+                    "day": 11,
+                    "verse": "Mat 4:18-22"
+                },
+                {
+                    "day": 12,
+                    "verse": "1Mpa 18:21-39"
+                },
+                {
+                    "day": 13,
+                    "verse": "1Kor 14:23-25"
+                },
+                {
+                    "day": 14,
+                    "verse": "Hos 6:6-11"
+                },
+                {
+                    "day": 15,
+                    "verse": "Lio 3:15-18"
+                },
+                {
+                    "day": 16,
+                    "verse": "Mal 3:7-12"
+                },
+                {
+                    "day": 17,
+                    "verse": "Asa 15:22-29"
+                },
+                {
+                    "day": 18,
+                    "verse": "Jao 15:11-16"
+                },
+                {
+                    "day": 19,
+                    "verse": "Jos 2:17-24"
+                },
+                {
+                    "day": 20,
+                    "verse": "1Tes 5:12-22"
+                },
+                {
+                    "day": 21,
+                    "verse": "Amo 5:21-24"
+                },
+                {
+                    "day": 22,
+                    "verse": "Jao 4:31-38"
+                },
+                {
+                    "day": 23,
+                    "verse": "Eks 23:14-17"
+                },
+                {
+                    "day": 24,
+                    "verse": "Efe 1:3-6"
+                },
+                {
+                    "day": 25,
+                    "verse": "Deo 31:9-13"
+                },
+                {
+                    "day": 26,
+                    "verse": "1Kor 9:19-23"
+                },
+                {
+                    "day": 27,
+                    "verse": "Rot 1:11-17"
+                },
+                {
+                    "day": 28,
+                    "verse": "2Kor 5:16-21"
+                },
+                {
+                    "day": 29,
+                    "verse": "Isa 66:18-24"
+                },
+                {
+                    "day": 30,
+                    "verse": "1Tes 2:13-20"
+                },
+                {
+                    "day": 31,
+                    "verse": "Jao 11:47-53"
+                }
+            ]
+        },
+        {
+            "volana": "Septambra",
+            "laharana": 9,
+            "lohahevitra": "VELON'NY FINOANA NY MPINO",
+            "tsianjery": "Romana 4:18",
+            "vakiteny": [
+                {
+                    "day": 1,
+                    "verse": "Gen 18:1-15"
+                },
+                {
+                    "day": 2,
+                    "verse": "Jak 2:22-27"
+                },
+                {
+                    "day": 3,
+                    "verse": "Mat 15:21-28"
+                },
+                {
+                    "day": 4,
+                    "verse": "2Sam 12:13-20"
+                },
+                {
+                    "day": 5,
+                    "verse": "Deo 26:16-19"
+                },
+                {
+                    "day": 6,
+                    "verse": "Gal 4:1-7"
+                },
+                {
+                    "day": 7,
+                    "verse": "Gen 15:1-6"
+                },
+                {
+                    "day": 8,
+                    "verse": "Lio 18:35-43"
+                },
+                {
+                    "day": 9,
+                    "verse": "Sal 105:37-45"
+                },
+                {
+                    "day": 10,
+                    "verse": "Jao 9:35-41"
+                },
+                {
+                    "day": 11,
+                    "verse": "Isa 30:15-18"
+                },
+                {
+                    "day": 12,
+                    "verse": "Rom 4:1-12"
+                },
+                {
+                    "day": 13,
+                    "verse": "Neh 9:32-37"
+                },
+                {
+                    "day": 14,
+                    "verse": "Mar 9:27-31"
+                },
+                {
+                    "day": 15,
+                    "verse": "1Mpa 18:36-40"
+                },
+                {
+                    "day": 16,
+                    "verse": "Lio 18:1-8"
+                },
+                {
+                    "day": 17,
+                    "verse": "2Tan 20:20-23"
+                },
+                {
+                    "day": 18,
+                    "verse": "Asa 19:1-10"
+                },
+                {
+                    "day": 19,
+                    "verse": "Rom 10:5-10"
+                },
+                {
+                    "day": 20,
+                    "verse": "Mar 14:43-52"
+                },
+                {
+                    "day": 21,
+                    "verse": "Asa 3:12-16"
+                },
+                {
+                    "day": 22,
+                    "verse": "Jos 5:2-12"
+                },
+                {
+                    "day": 23,
+                    "verse": "Lio 9:1-6"
+                },
+                {
+                    "day": 24,
+                    "verse": "Mar 9:14-29"
+                },
+                {
+                    "day": 25,
+                    "verse": "Lio 7:1-10"
+                },
+                {
+                    "day": 26,
+                    "verse": "Eze 3:18-21"
+                },
+                {
+                    "day": 27,
+                    "verse": "Asa 18:1-9"
+                },
+                {
+                    "day": 28,
+                    "verse": "Hab 2:3-4"
+                },
+                {
+                    "day": 29,
+                    "verse": "Gal 3:10-14"
+                },
+                {
+                    "day": 30,
+                    "verse": "Jao 4:46-54"
+                }
+            ]
+        }
+    ]
+}

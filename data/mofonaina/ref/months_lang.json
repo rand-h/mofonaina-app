@@ -1,0 +1,74 @@
+[
+    {
+        "numero": 1,
+        "mg": "Janoary",
+        "fr": "Janvier",
+        "en": "January"
+    },
+    {
+        "numero": 2,
+        "mg": "Febroary",
+        "fr": "Février",
+        "en": "February"
+    },
+    {
+        "numero": 3,
+        "mg": "Martsa",
+        "fr": "Mars",
+        "en": "March"
+    },
+    {
+        "numero": 4,
+        "mg": "Aprily",
+        "fr": "Avril",
+        "en": "April"
+    },
+    {
+        "numero": 5,
+        "mg": "Mey",
+        "fr": "Mai",
+        "en": "May"
+    },
+    {
+        "numero": 6,
+        "mg": "Jona",
+        "fr": "Juin",
+        "en": "June"
+    },
+    {
+        "numero": 7,
+        "mg": "Jolay",
+        "fr": "Juillet",
+        "en": "July"
+    },
+    {
+        "numero": 8,
+        "mg": "Aogositra",
+        "fr": "Août",
+        "en": "August"
+    },
+    {
+        "numero": 9,
+        "mg": "Septambra",
+        "fr": "Septembre",
+        "en": "September"
+    },
+    {
+        "numero": 10,
+        "mg": "Oktobra",
+        "fr": "Octobre",
+        "en": "October"
+    },
+    {
+        "numero": 11,
+        "mg": "Novambra",
+        "fr": "Novembre",
+        "en": "November"
+    },
+    {
+        "numero": 12,
+        "mg": "Desambra",
+        "fr": "Décembre",
+        "en": "December"
+    }
+]
