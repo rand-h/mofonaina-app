@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baiboly Reader</title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Merriweather:ital,wght@0,300;0,700;1,300&display=swap" rel="stylesheet">
+    
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+
+    <link rel="stylesheet" href="style.css">
+
+    
+</head>
+<body>
+
+    <div class="app-container">
+        <nav class="sidebar">
+            <div class="logo">
+                <i class="ph ph-book-bookmark"></i>
+                <span>Baiboly</span>
+            </div>
+            
+            <div class="nav-controls">
+                <div class="control-group">
+                    <label>Langue</label>
+                    <select id="langueSelect">
+                        <option value="fr">Français</option>
+                        <option value="mg">Malgache</option>
+                        <option value="en">English</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="nav-footer">
+                <button id="btnVersetJour" class="btn-secondary">
+                    <i class="ph ph-sun"></i> Verset du jour
+                </button>
+            </div>
+        </nav>
+
+        <main class="content">
+            
+            <header class="search-header">
+                <div class="search-bar">
+                    <i class="ph ph-magnifying-glass search-icon"></i>
+                    <input type="text" id="inputSearch" placeholder="Rechercher (ex: Jean 3:16 ou 'Amour')...">
+                    <button id="btnAction" class="btn-primary">Go</button>
+                </div>
+                <p class="hint">Appuyez sur Entrée pour valider</p>
+            </header>
+
+            <div id="resultsArea" class="results-container">
+                <div class="empty-state">
+                    <i class="ph ph-sparkle"></i>
+                    <h3>La Parole à portée de main</h3>
+                    <p>Entrez une référence ou un mot-clé pour commencer.</p>
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/msgpack-lite/0.1.26/msgpack.min.js"></script>
+    <script src="BibleAPI.js"></script> 
+    <script src="app.js"></script> 
+</body>
+</html>

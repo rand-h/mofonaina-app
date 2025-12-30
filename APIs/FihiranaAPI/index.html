@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Console - Fihirana API v4</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { background-color: #f8f9fa; padding-top: 20px; }
+        .card { margin-bottom: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        #output { 
+            background-color: #1e1e1e; 
+            color: #d4d4d4; 
+            padding: 15px; 
+            border-radius: 5px; 
+            height: 500px; 
+            overflow-y: auto; 
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 0.9rem;
+        }
+        .btn-group-custom { gap: 10px; display: flex; flex-wrap: wrap; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-12 text-center mb-4">
+            <h1>🛠️ Interface de Test Fihirana API</h1>
+            <p class="text-muted">Version API : v4 | Stockage : RAM + IndexedDB</p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-5">
+            
+            <div class="card">
+                <div class="card-header bg-primary text-white">Configuration</div>
+                <div class="card-body">
+                    <div class="mb-3">
+                        <label class="form-label">Chemin de base (Dossier JSON)</label>
+                        <input type="text" id="basePathInput" class="form-control" value="./assets/js/data/fihirana/">
+                        <div class="form-text">Assurez-vous que ce chemin est correct par rapport au fichier HTML.</div>
+                    </div>
+                    <button class="btn btn-sm btn-outline-primary w-100" onclick="updateConfig()">Mettre à jour le chemin</button>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header bg-success text-white">Lecture & Chargement</div>
+                <div class="card-body">
+                    <div class="input-group mb-3">
+                        <input type="text" id="catInput" class="form-control" placeholder="Catégorie (ex: ff, FFPM)" value="ff">
+                        <input type="number" id="numInput" class="form-control" placeholder="N°" value="1">
+                    </div>
+                    <div class="btn-group-custom">
+                        <button class="btn btn-success flex-grow-1" onclick="loadCategory()">1. Charger Catégorie</button>
+                        <button class="btn btn-primary flex-grow-1" onclick="getSong()">2. Lire Chant</button>
+                    </div>
+                    <hr>
+                    <button class="btn btn-info w-100 text-white" onclick="getRandom()">🎲 Chant Aléatoire</button>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header bg-warning text-dark">Recherche</div>
+                <div class="card-body">
+                    <div class="input-group mb-3">
+                        <input type="text" id="searchInput" class="form-control" placeholder="Mot-clé...">
+                    </div>
+                    <div class="btn-group-custom">
+                        <button class="btn btn-warning" onclick="searchLyrics()">Dans les Paroles</button>
+                        <button class="btn btn-outline-warning" onclick="searchTitle()">Dans les Titres</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header bg-danger text-white">Maintenance</div>
+                <div class="card-body">
+                    <button class="btn btn-danger w-100" onclick="clearRam()">Vider Cache RAM</button>
+                    <small class="text-muted d-block mt-2 text-center">Note : Pour vider IndexedDB, utilisez les outils dév du navigateur (F12 > Application).</small>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-7">
+            <div class="card h-100">
+                <div class="card-header d-flex justify-content-between align-items-center">
+                    <span>Console de Sortie</span>
+                    <button class="btn btn-sm btn-secondary" onclick="clearLog()">Effacer</button>
+                </div>
+                <div class="card-body p-0">
+                    <div id="output"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/idb-keyval@6/dist/umd.js"></script>
+
+<script src="FihiranaAPI.js"></script>
+
+<script>
+    // Initialisation
+    let api;
+    const outputDiv = document.getElementById('output');
+
+    window.onload = () => {
+        try {
+            api = new FihiranaAPI();
+            log("✅ API Initialisée avec succès.");
+            log("ℹ️ Configurez le chemin des fichiers JSON si nécessaire.");
+        } catch (e) {
+            log("❌ Erreur critique lors de l'initialisation : " + e.message);
+        }
+    };
+
+    // --- Fonctions Utilitaires ---
+
+    function log(message, data = null) {
+        const timestamp = new Date().toLocaleTimeString();
+        let html = `<div><span style="color: #888">[${timestamp}]</span> ${message}</div>`;
+        
+        if (data) {
+            html += `<pre style="color: #a5d6a7; font-size: 0.85em;">${JSON.stringify(data, null, 2)}</pre>`;
+        }
+        
+        outputDiv.innerHTML += html;
+        outputDiv.scrollTop = outputDiv.scrollHeight;
+    }
+
+    function clearLog() {
+        outputDiv.innerHTML = '';
+    }
+
+    // --- Fonctions de Test ---
+
+    function updateConfig() {
+        const path = document.getElementById('basePathInput').value;
+        api.setBasePath(path);
+        log(`⚙️ Chemin de base mis à jour : "${path}"`);
+    }
+
+    async function loadCategory() {
+        const cat = document.getElementById('catInput').value;
+        if (!cat) return log("❌ Veuillez entrer une catégorie.");
+
+        log(`⏳ Chargement des données pour la catégorie "${cat}"...`);
+        try {
+            await api.loadData(cat);
+            // Vérification simple pour voir si des données sont là
+            const count = await api.nombreChant(cat);
+            log(`✅ Chargement terminé. ${count.count} chants trouvés en mémoire/DB.`);
+        } catch (e) {
+            log(`❌ Erreur loadData : ${e.message}`);
+        }
+    }
+
+    async function getSong() {
+        const cat = document.getElementById('catInput').value;
+        const num = document.getElementById('numInput').value;
+
+        if (!cat || !num) return log("❌ Entrez une catégorie et un numéro.");
+
+        log(`🔍 Recherche du chant : ${cat} ${num}`);
+        try {
+            const chant = await api.chanter(cat, num);
+            log("🎵 Chant trouvé :", chant);
+        } catch (e) {
+            log(`❌ Erreur chanter() : ${e.message}`);
+        }
+    }
+
+    async function getRandom() {
+        log("🎲 Sélection d'un chant aléatoire...");
+        try {
+            const chant = await api.chantRandom();
+            log(`✨ Chant aléatoire (${chant.ref}) :`, chant);
+        } catch (e) {
+            log(`❌ Erreur random : ${e.message}`);
+        }
+    }
+
+    async function searchLyrics() {
+        const keyword = document.getElementById('searchInput').value;
+        if (!keyword) return log("❌ Entrez un mot-clé.");
+
+        log(`🔎 Recherche dans les PAROLES pour "${keyword}"...`);
+        try {
+            const result = await api.chercheMotCle(keyword);
+            
+            // Résumé des résultats
+            let total = 0;
+            for(let cat in result.results) total += result.results[cat].count;
+
+            log(`✅ Recherche terminée. ${total} résultats trouvés.`, result);
+        } catch (e) {
+            log(`❌ Erreur recherche : ${e.message}`);
+        }
+    }
+
+    async function searchTitle() {
+        const keyword = document.getElementById('searchInput').value;
+        if (!keyword) return log("❌ Entrez un mot-clé.");
+
+        log(`🔎 Recherche dans les TITRES pour "${keyword}"...`);
+        try {
+            const result = await api.chercheMotCle_titre(keyword);
+            log("✅ Résultats titres :", result);
+        } catch (e) {
+            log(`❌ Erreur recherche titre : ${e.message}`);
+        }
+    }
+
+    function clearRam() {
+        api.viderCache();
+        log("🧹 Cache RAM vidé.");
+    }
+
+</script>
+
+</body>
+</html>
