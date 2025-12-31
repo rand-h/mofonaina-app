@@ -10,7 +10,7 @@
           "name": "Protestanta",
           "description": "Ny Baiboly Protestanta mahazatra (1865)",
           "year": 1865,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/tree/main/data/baiboly/bible_mg.json",
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/bible_mg.json",
           "type": "local",
           "copyright": "Public Domain"
         }
@@ -119,4 +119,5 @@
       ]
     }
   }
+
 }
