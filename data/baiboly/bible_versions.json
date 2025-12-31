@@ -1,0 +1,122 @@
+{
+  "last_updated": "2023-10-27",
+  "languages": {
+    "mg": {
+      "label": "Malagasy",
+      "default_version": "prot",
+      "versions": [
+        {
+          "id": "prot",
+          "name": "Protestanta",
+          "description": "Ny Baiboly Protestanta mahazatra (1865)",
+          "year": 1865,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/tree/main/data/baiboly/bible_mg.json",
+          "type": "local",
+          "copyright": "Public Domain"
+        }
+      ]
+    },
+    "fr": {
+      "label": "Français",
+      "default_version": "lsg",
+      "versions": [
+        {
+          "id": "lsg",
+          "name": "Louis Segond 1910",
+          "description": "La référence classique protestante francophone.",
+          "year": 1910,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_lsg.json",
+          "type": "local",
+          "copyright": "Domaine Public"
+        },
+        {
+          "id": "jnd",
+          "name": "Darby",
+          "description": "Traduction très littérale par J.N. Darby.",
+          "year": 1859,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_jnd.json",
+          "type": "local",
+          "copyright": "Domaine Public"
+        },
+        {
+          "id": "ost",
+          "name": "Ostervald",
+          "description": "Traduction historique basée sur le Texte Reçu.",
+          "year": 1996,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/bible_fr.json",
+          "type": "github",
+          "copyright": "Domaine Public"
+        },
+        {
+          "id": "martin",
+          "name": "David Martin",
+          "description": "Version précise et littéraire du 18ème siècle.",
+          "year": 1744,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_martin.json",
+          "type": "github",
+          "copyright": "Domaine Public"
+        },
+        {
+          "id": "epee",
+          "name": "Bible de l'Épée",
+          "description": "Traduction littérale basée sur les textes majoritaires.",
+          "year": 2010,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_epee.json",
+          "type": "github",
+          "copyright": "Domaine Public"
+        },
+        {
+          "id": "ncl",
+          "name": "Version NCL",
+          "description": "Version supplémentaire.",
+          "year": 2000,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_ncl.json",
+          "type": "local",
+          "copyright": "Inconnu"
+        }
+      ]
+    },
+    "en": {
+      "label": "English",
+      "default_version": "kjv",
+      "versions": [
+        {
+          "id": "kjv",
+          "name": "King James Version",
+          "description": "The historical masterpiece of English literature.",
+          "year": 1611,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_kjv.json",
+          "type": "local",
+          "copyright": "Public Domain"
+        },
+        {
+          "id": "web",
+          "name": "World English Bible",
+          "description": "Modern English translation, easier to read.",
+          "year": 2000,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_web.json",
+          "type": "github",
+          "copyright": "Public Domain"
+        },
+        {
+          "id": "bbe",
+          "name": "Bible in Basic English",
+          "description": "Translated using standard 850 Basic English words.",
+          "year": 1941,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_bbe.json",
+          "type": "local",
+          "copyright": "Public Domain"
+        },
+        {
+          "id": "net",
+          "name": "New English Translation",
+          "description": "A completely new translation with extensive notes.",
+          "year": 2005,
+          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/bible_en.json",
+          "type": "github",
+          "copyright": "Biblical Studies Press"
+        }
+      ]
+    }
+  }
+}
