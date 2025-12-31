@@ -1,5 +1,5 @@
 {
-  "last_updated": "2023-10-27",
+  "last_updated": "2025-12-31",
   "languages": {
     "mg": {
       "label": "Malagasy",
@@ -7,10 +7,10 @@
       "versions": [
         {
           "id": "prot",
-          "name": "Protestanta",
-          "description": "Ny Baiboly Protestanta mahazatra (1865)",
+          "name": "Protestanta (1865)",
+          "description": "Ny dikan-teny tranainy sy be mpampiasa indrindra eto Madagasikara. Nadikan'ny Misionera (LMS) tamin'ny taonjato faha-19, io no Baiboly ifotoran'ny finoana Protestanta malagasy.",
           "year": 1865,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/bible_mg.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/bible_mg.json",
           "type": "local",
           "copyright": "Public Domain"
         }
@@ -23,54 +23,54 @@
         {
           "id": "lsg",
           "name": "Louis Segond 1910",
-          "description": "La référence classique protestante francophone.",
+          "description": "La référence incontournable du monde protestant et évangélique francophone. Elle offre un équilibre parfait entre la fidélité au texte original et la qualité littéraire du français classique.",
           "year": 1910,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_lsg.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_lsg.json",
           "type": "local",
           "copyright": "Domaine Public"
         },
         {
           "id": "jnd",
           "name": "Darby",
-          "description": "Traduction très littérale par J.N. Darby.",
+          "description": "Une traduction extrêmement littérale réalisée par John Nelson Darby. Elle privilégie la précision grammaticale et structurelle sur la fluidité, ce qui en fait un outil précieux pour l'étude doctrinale approfondie.",
           "year": 1859,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_jnd.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_jnd.json",
           "type": "local",
           "copyright": "Domaine Public"
         },
         {
           "id": "ost",
           "name": "Ostervald",
-          "description": "Traduction historique basée sur le Texte Reçu.",
+          "description": "Révision de la Bible de Genève, basée sur le Texte Reçu (Textus Receptus). Elle propose un langage solennel et majestueux, historiquement très appréciée pour sa grande fidélité théologique.",
           "year": 1996,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/bible_fr.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/bible_fr.json",
           "type": "github",
           "copyright": "Domaine Public"
         },
         {
           "id": "martin",
           "name": "David Martin",
-          "description": "Version précise et littéraire du 18ème siècle.",
+          "description": "Une œuvre majeure du 18ème siècle, réputée pour son style riche et sa précision. Elle a servi de base à la version Ostervald et reste un témoin important de la langue française du Grand Siècle.",
           "year": 1744,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_martin.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_martin.json",
           "type": "github",
           "copyright": "Domaine Public"
         },
         {
           "id": "epee",
           "name": "Bible de l'Épée",
-          "description": "Traduction littérale basée sur les textes majoritaires.",
+          "description": "Une révision moderne basée sur les textes originaux majoritaires. Elle cherche à maintenir l'héritage des Bibles de la Réforme tout en rendant le texte accessible au lecteur contemporain.",
           "year": 2010,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_epee.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_epee.json",
           "type": "github",
           "copyright": "Domaine Public"
         },
         {
           "id": "ncl",
-          "name": "Version NCL",
-          "description": "Version supplémentaire.",
+          "name": "Bible de Neuchâtel",
+          "description": "Aussi appelée Bible annotée, cette version se distingue par son approche exégétique et ses notes riches, offrant une perspective alternative intéressante pour la comparaison de textes.",
           "year": 2000,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_ncl.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_ncl.json",
           "type": "local",
           "copyright": "Inconnu"
         }
@@ -83,41 +83,40 @@
         {
           "id": "kjv",
           "name": "King James Version",
-          "description": "The historical masterpiece of English literature.",
+          "description": "The Authorized Version of 1611. Known for its majesty of style, poetic rhythm, and historical significance. It remains the most influential book in the history of the English language.",
           "year": 1611,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_kjv.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_kjv.json",
           "type": "local",
           "copyright": "Public Domain"
         },
         {
           "id": "web",
           "name": "World English Bible",
-          "description": "Modern English translation, easier to read.",
+          "description": "A modern Public Domain translation based on the American Standard Version. It is designed to be easily understood by modern readers while preserving literal accuracy and using God's Hebrew name 'Yahweh'.",
           "year": 2000,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_web.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_web.json",
           "type": "github",
           "copyright": "Public Domain"
         },
         {
           "id": "bbe",
           "name": "Bible in Basic English",
-          "description": "Translated using standard 850 Basic English words.",
+          "description": "A unique simplification of the Bible using a vocabulary of only 850 basic English words. Ideal for those learning English as a second language or preferring simple, direct phrasing.",
           "year": 1941,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_bbe.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_bbe.json",
           "type": "local",
           "copyright": "Public Domain"
         },
         {
           "id": "net",
           "name": "New English Translation",
-          "description": "A completely new translation with extensive notes.",
+          "description": "A completely new translation from the biblical languages, created for the digital age. It is famous for its extensive translators' notes that explain the textual decisions made.",
           "year": 2005,
-          "url": "https://raw.github.com/rand-h/mofonaina-app/main/data/baiboly/bible_en.json",
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/bible_en.json",
           "type": "github",
           "copyright": "Biblical Studies Press"
         }
       ]
     }
   }
-
 }
