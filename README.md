@@ -11,44 +11,59 @@
 ---
 
 <details open>
-<summary><b>🇲🇬 Malagasy</b></summary>
+<summary><i>[MG]</i> <b>Malagasy</b></summary>
 <br>
 
 **Mofon'aina FJKM** dia rindranasan-tranonkala sy finday ahafahana mamaky ny **mofon'aina isan'andro** araka ny fandaharam-pianarana FJKM.  
 Ity fampiharana ity dia manolotra endri-javatra maro ahafahana manaraka ny fivavahana sy ny famakiana Baiboly amin'ny fomba mora sy azo antoka.
 
 ### Endri-javatra fototra :
-- 📖 **Mofon'aina isan'andro** araka ny FJKM  
-- 📅 **Fandaharam-potoana mofon'aina ho an'ny taona** - 📖 **Famaky ny Baiboly** - 🎶 **Fihirana FJKM (FFPM, Fihirana Fanampiny, Antema, Tsanta, Solfa)** - 📑 **Perikopa FJKM ho an'ny taona** - 🎤 **Fandaharana** - 🤖 **Fanazavana ny andininy amin'ny AI** (mbola andrana)  
-- 🌐 **Tohanana amin'ny teny telo: malagasy, frantsay, anglisy** - ➕ **sy maro hafa...**
+- <i>Mofon'aina isan'andro</i> araka ny FJKM  
+- <i>Fandaharam-potoana mofon'aina mandavan-taona</i>
+- <i>Famakiana Baiboly</i>
+- <i>Fihirana (FFPM, Fihirana Fanampiny, Antema, Tsanta)</i> - Solfa
+- <i>Perikopa FJKM</i>
+- <i>Fandaharana</i>
+- <i>Fanazavana ny andininy amin'ny IA</i> (mbola andrana)  
+- <i>Hita @ fiteny telo : malagasy, frantsay ary anglisy</i>
 
 </details>
 
 <details>
-<summary><b>🇫🇷 Français</b></summary>
+<summary><i>[FR]</i> <b>Français</b></summary>
 <br>
 
 **Mofon'aina FJKM** est une application web et mobile permettant de lire les **mofon'aina du jour** selon le programme officiel de la FJKM.  
 Cette application offre de nombreuses fonctionnalités pour suivre la dévotion et la lecture biblique de manière simple et fiable.
 
 ### Fonctionnalités principales :
-- 📖 **Mofon'aina quotidien** selon le calendrier FJKM  
-- 📅 **Programme annuel des mofon'aina** - 📖 **Lecture de la Bible** - 🎶 **Recueil de cantiques (FFPM, Fihirana Fanampiny, Antema, Tsanta, Solfa)** - 📑 **Péricopes FJKM de l’année** - 🎤 **Programme interactif audio/vidéo** - 🤖 **Explication des versets par IA** (expérimental)  
-- 🌐 **Support de trois langues : malgache, français, anglais** - ➕ **et bien plus...**
+- <i>Mofon'aina quotidien</i> selon le calendrier FJKM  
+- <i>Programme annuel des mofon'aina</i>
+- <i>Lecture de la Bible</i>
+- <i>Recueil de cantiques (FFPM, Fihirana Fanampiny, Antema, Tsanta)</i> Solfa
+- <i>Péricopes FJKM de l’année</i>
+- <i>Explication des versets par IA</i> (expérimental)  
+- <i>Support de trois langues : malgache, français, anglais</i>
+- <i>et bien plus...</i>
 
 </details>
 
 <details>
-<summary><b>🇬🇧 English</b></summary>
+<summary><i>[EN]</i> <b>English</b></summary>
 <br>
 
 **Mofon'aina FJKM** is a web and mobile app that lets you read the **daily mofon'aina** according to the official FJKM reading plan.  
 This app provides a rich set of tools to support daily devotion, Bible reading, and spiritual growth.
 
 ### Key Features:
-- 📖 **Daily Mofon'aina** based on FJKM schedule  
-- 📅 **Annual Mofon'aina program** - 📖 **Bible reading** - 🎶 **FJKM Hymnbook (FFPM, Fihirana Fanampiny, Antema, Tsanta, Solfa)** - 📑 **Yearly FJKM lectionary (pericopes)** - 🎤 **Interactive audio program** - 🤖 **AI-powered verse explanations** (experimental)  
-- 🌐 **Available in three languages: Malagasy, French, English** - ➕ **and much more...**
+- <i>Daily Mofon'aina</i> based on FJKM schedule  
+- <i>Annual Mofon'aina program</i>
+- <i>Bible reading</i>
+- <i>FJKM Hymnbook (FFPM, Fihirana Fanampiny, Antema, Tsanta, Solfa)</i>
+- <i>Yearly FJKM lectionary (pericopes)</i>
+- <i>AI-powered verse explanations</i> (experimental)  
+- <i>Available in three languages: Malagasy, French, English</i>
+- <i>and much more...</i>
 
 </details>
 
@@ -56,9 +71,11 @@ This app provides a rich set of tools to support daily devotion, Bible reading, 
 
 <div align="center">
 
-> **Rindranasa – Amin'ny fiteny telo – Maimaimpoana sy azo idirana amin'ny finday sy solosaina** > *Application – En trois langues – Gratuite et accessible sur mobile & web* > *App – In three languages – Free and available on mobile & web*
+> <i>Rindranasa – Amin'ny fiteny telo – Maimaimpoana sy azo idirana amin'ny finday sy solosaina</i>
+> <i>Application – En trois langues – Gratuite et accessible sur mobile & web</i>
+> <i>App – In three languages – Free and available on mobile & web</i>
 
-### [🚀 Ouvrir l’application / Open App](https://mofonaina-cabea.web.app)
+### [Ouvrir l’application / Open App](https://mofonaina-cabea.web.app)
 
 <br>
 
