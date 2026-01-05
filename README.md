@@ -71,9 +71,9 @@ This app provides a rich set of tools to support daily devotion, Bible reading, 
 
 <div align="center">
 
-> <i>Rindranasa – Amin'ny fiteny telo – Maimaimpoana sy azo idirana amin'ny finday sy solosaina</i>
-> <i>Application – En trois langues – Gratuite et accessible sur mobile & web</i>
-> <i>App – In three languages – Free and available on mobile & web</i>
+> <i>Rindranasa – Amin'ny fiteny telo – Maimaimpoana sy azo idirana amin'ny finday sy solosaina</i><br>
+> <i>Application – En trois langues – Gratuite et accessible sur mobile & web</i><br>
+> <i>App – In three languages – Free and available on mobile & web</i><br>
 
 ### [Ouvrir l’application / Open App](https://mofonaina-cabea.web.app)
 
