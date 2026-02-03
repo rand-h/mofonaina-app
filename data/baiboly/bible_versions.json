@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-31",
+  "last_updated": "2026-02-03",
   "languages": {
     "mg": {
       "label": "Malagasy",
@@ -20,6 +20,15 @@
           "description": "Dikan-teny Iombonana Eto Madagasikara. Fiaraha-miasan'ny fiangonana samihafa mba hanomezana dikan-teny amin'ny teny malagasy, mora azo ary manaja ny soratra masina.",
           "year": 2004,
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_mg_diem.json",
+          "type": "local",
+          "copyright": "Fikambanana Mampiely Baiboly Malagasy"
+        },
+        {
+          "id": "bpff",
+          "name": "Baiboly Protestanta (2011)",
+          "description": "Fanavaozana ny Baiboly 1865. Ny Fikambanana Mampiely Baiboly Malagasy no nanao azy tamin'ny taona 2011 mba hanitsiana ny tsipelina sy ny teny sasany hifanaraka amin'ny teny malagasy ofisialy ankehitriny.",
+          "year": 2011,
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_mg_v2011.json",
           "type": "local",
           "copyright": "Fikambanana Mampiely Baiboly Malagasy"
         }
@@ -129,4 +138,5 @@
     }
   }
 }
+
 
