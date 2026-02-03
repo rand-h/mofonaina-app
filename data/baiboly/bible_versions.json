@@ -13,6 +13,15 @@
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/bible_mg.json",
           "type": "local",
           "copyright": "Public Domain"
+        },
+        {
+          "id": "diem",
+          "name": "DIEM (Dikan-teny Iombonana)",
+          "description": "Dikan-teny Iombonana Eto Madagasikara. Fiaraha-miasan'ny fiangonana samihafa mba hanomezana dikan-teny amin'ny teny malagasy, mora azo ary manaja ny soratra masina.",
+          "year": 2004,
+          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_mg_diem.json",
+          "type": "local",
+          "copyright": "Fikambanana Mampiely Baiboly Malagasy"
         }
       ]
     },
@@ -120,3 +129,4 @@
     }
   }
 }
+
