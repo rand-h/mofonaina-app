@@ -64,16 +64,8 @@
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_epee.json",
           "type": "github",
           "copyright": "Domaine Public"
-        },
-        {
-          "id": "ncl",
-          "name": "Bible de Neuchâtel",
-          "description": "Aussi appelée Bible annotée, cette version se distingue par son approche exégétique et ses notes riches, offrant une perspective alternative intéressante pour la comparaison de textes.",
-          "year": 2000,
-          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_ncl.json",
-          "type": "local",
-          "copyright": "Inconnu"
         }
+        
       ]
     },
     "en": {
@@ -97,25 +89,8 @@
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_web.json",
           "type": "github",
           "copyright": "Public Domain"
-        },
-        {
-          "id": "bbe",
-          "name": "Bible in Basic English",
-          "description": "A unique simplification of the Bible using a vocabulary of only 850 basic English words. Ideal for those learning English as a second language or preferring simple, direct phrasing.",
-          "year": 1941,
-          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_bbe.json",
-          "type": "local",
-          "copyright": "Public Domain"
-        },
-        {
-          "id": "net",
-          "name": "New English Translation",
-          "description": "A completely new translation from the biblical languages, created for the digital age. It is famous for its extensive translators' notes that explain the textual decisions made.",
-          "year": 2005,
-          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/bible_en.json",
-          "type": "github",
-          "copyright": "Biblical Studies Press"
         }
+        
       ]
     }
   }
