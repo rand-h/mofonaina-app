@@ -89,6 +89,15 @@
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_web.json",
           "type": "github",
           "copyright": "Public Domain"
+        },
+        {
+          "id": "net",
+          "name": "New English Translation",
+          "description": "A completely new translation from the biblical languages, created for the digital age. It is famous for its extensive translators' notes that explain the textual decisions made.",
+          "year": 2005,
+          "url": "",
+          "type": "local",
+          "copyright": "Biblical Studies Press"
         }
         
       ]
