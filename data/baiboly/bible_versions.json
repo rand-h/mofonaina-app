@@ -22,15 +22,6 @@
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_mg_diem.json",
           "type": "local",
           "copyright": "Fikambanana Mampiely Baiboly Malagasy"
-        },
-        {
-          "id": "bpff",
-          "name": "Baiboly Protestanta (2011)",
-          "description": "Fanavaozana ny Baiboly 1865. Ny Fikambanana Mampiely Baiboly Malagasy no nanao azy tamin'ny taona 2011 mba hanitsiana ny tsipelina sy ny teny sasany hifanaraka amin'ny teny malagasy ofisialy ankehitriny.",
-          "year": 2011,
-          "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_mg_v2011.json",
-          "type": "local",
-          "copyright": "Fikambanana Mampiely Baiboly Malagasy"
         }
       ]
     },
