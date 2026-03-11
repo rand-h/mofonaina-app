@@ -75,7 +75,7 @@ This app provides a rich set of tools to support daily devotion, Bible reading, 
 > <i>Application – En trois langues – Gratuite et accessible sur mobile & web</i><br>
 > <i>App – In three languages – Free and available on mobile & web</i><br>
 
-### [Ouvrir l’application / Open App](https://play.google.com/store/apps/details?id=app.web.mofonaina_cabea)p
+### [Ouvrir l’application / Open App](https://play.google.com/store/apps/details?id=app.web.mofonaina_cabea)
 
 <br>
 
