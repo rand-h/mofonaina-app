@@ -18,11 +18,10 @@
 Ity fampiharana ity dia manolotra endri-javatra maro ahafahana manaraka ny fivavahana sy ny famakiana Baiboly amin'ny fomba mora sy azo antoka.
 
 ### Endri-javatra fototra :
-- <i>Mofon'aina isan'andro</i> araka ny FJKM  
+- <i>Mofon'aina isan'andro</i> 
 - <i>Fandaharam-potoana mofon'aina mandavan-taona</i>
 - <i>Famakiana Baiboly</i>
 - <i>Fihirana (FFPM, Fihirana Fanampiny, Antema, Tsanta)</i> - Solfa
-- <i>Perikopa FJKM</i>
 - <i>Fandaharana</i>
 - <i>Fanazavana ny andininy amin'ny IA</i> (mbola andrana)  
 - <i>Hita @ fiteny telo : malagasy, frantsay ary anglisy</i>
@@ -37,11 +36,10 @@ Ity fampiharana ity dia manolotra endri-javatra maro ahafahana manaraka ny fivav
 Cette application offre de nombreuses fonctionnalités pour suivre la dévotion et la lecture biblique de manière simple et fiable.
 
 ### Fonctionnalités principales :
-- <i>Mofon'aina quotidien</i> selon le calendrier FJKM  
+- <i>Mofon'aina quotidien</i> 
 - <i>Programme annuel des mofon'aina</i>
 - <i>Lecture de la Bible</i>
 - <i>Recueil de cantiques (FFPM, Fihirana Fanampiny, Antema, Tsanta)</i> Solfa
-- <i>Péricopes FJKM de l’année</i>
 - <i>Explication des versets par IA</i> (expérimental)  
 - <i>Support de trois langues : malgache, français, anglais</i>
 - <i>et bien plus...</i>
@@ -56,11 +54,10 @@ Cette application offre de nombreuses fonctionnalités pour suivre la dévotion 
 This app provides a rich set of tools to support daily devotion, Bible reading, and spiritual growth.
 
 ### Key Features:
-- <i>Daily Mofon'aina</i> based on FJKM schedule  
+- <i>Daily Mofon'aina</i>  
 - <i>Annual Mofon'aina program</i>
 - <i>Bible reading</i>
 - <i>FJKM Hymnbook (FFPM, Fihirana Fanampiny, Antema, Tsanta, Solfa)</i>
-- <i>Yearly FJKM lectionary (pericopes)</i>
 - <i>AI-powered verse explanations</i> (experimental)  
 - <i>Available in three languages: Malagasy, French, English</i>
 - <i>and much more...</i>
