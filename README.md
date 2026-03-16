@@ -14,7 +14,7 @@
 <summary><i>[MG]</i> <b>Malagasy</b></summary>
 <br>
 
-**Mofon'aina FJKM** dia rindranasan-tranonkala sy finday ahafahana mamaky ny **mofon'aina isan'andro** araka ny fandaharam-pianarana FJKM.  
+**Mofonaina** dia rindranasan-tranonkala sy finday ahafahana mamaky ny **mofon'aina isan'andro** araka ny fandaharam-pianarana FJKM.  
 Ity fampiharana ity dia manolotra endri-javatra maro ahafahana manaraka ny fivavahana sy ny famakiana Baiboly amin'ny fomba mora sy azo antoka.
 
 ### Endri-javatra fototra :
@@ -33,7 +33,7 @@ Ity fampiharana ity dia manolotra endri-javatra maro ahafahana manaraka ny fivav
 <summary><i>[FR]</i> <b>Français</b></summary>
 <br>
 
-**Mofon'aina FJKM** est une application web et mobile permettant de lire les **mofon'aina du jour** selon le programme officiel de la FJKM.  
+**Mofonaina** est une application web et mobile permettant de lire les **mofon'aina du jour** selon le programme officiel de la FJKM.  
 Cette application offre de nombreuses fonctionnalités pour suivre la dévotion et la lecture biblique de manière simple et fiable.
 
 ### Fonctionnalités principales :
@@ -52,7 +52,7 @@ Cette application offre de nombreuses fonctionnalités pour suivre la dévotion 
 <summary><i>[EN]</i> <b>English</b></summary>
 <br>
 
-**Mofon'aina FJKM** is a web and mobile app that lets you read the **daily mofon'aina** according to the official FJKM reading plan.  
+**Mofonaina** is a web and mobile app that lets you read the **daily mofon'aina** according to the official FJKM reading plan.  
 This app provides a rich set of tools to support daily devotion, Bible reading, and spiritual growth.
 
 ### Key Features:
@@ -75,7 +75,7 @@ This app provides a rich set of tools to support daily devotion, Bible reading, 
 > <i>Application – En trois langues – Gratuite et accessible sur mobile & web</i><br>
 > <i>App – In three languages – Free and available on mobile & web</i><br>
 
-### [Ouvrir l’application / Open App](https://mofonaina-cabea.web.app)
+### [Ouvrir l’application / Open App](https://play.google.com/store/apps/details?id=app.web.mofonaina_cabea)
 
 <br>
 
