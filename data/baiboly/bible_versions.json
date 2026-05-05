@@ -12,7 +12,8 @@
           "year": 1865,
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/bible_mg.json",
           "type": "local",
-          "copyright": "Public Domain"
+          "copyright": "Public Domain",
+          "size": "9.9 Mo"
         }
       ]
     },
@@ -27,7 +28,8 @@
           "year": 1910,
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_lsg.json",
           "type": "local",
-          "copyright": "Domaine Public"
+          "copyright": "Domaine Public",
+          "size": "5.6 Mo"
         },
         {
           "id": "jnd",
@@ -36,7 +38,8 @@
           "year": 1859,
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_jnd.json",
           "type": "local",
-          "copyright": "Domaine Public"
+          "copyright": "Domaine Public",
+          "size": "5.7 Mo"
         },
         {
           "id": "ost",
@@ -45,7 +48,8 @@
           "year": 1996,
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/bible_fr.json",
           "type": "github",
-          "copyright": "Domaine Public"
+          "copyright": "Domaine Public",
+          "size": "9.5 Mo"
         },
         {
           "id": "martin",
@@ -54,7 +58,8 @@
           "year": 1744,
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_martin.json",
           "type": "github",
-          "copyright": "Domaine Public"
+          "copyright": "Domaine Public",
+          "size": "5.7 Mo"
         },
         {
           "id": "epee",
@@ -63,9 +68,9 @@
           "year": 2010,
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_fra_epee.json",
           "type": "github",
-          "copyright": "Domaine Public"
+          "copyright": "Domaine Public",
+          "size": "5.5 Mo"
         }
-        
       ]
     },
     "en": {
@@ -79,7 +84,8 @@
           "year": 1611,
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_kjv.json",
           "type": "local",
-          "copyright": "Public Domain"
+          "copyright": "Public Domain",
+          "size": "4.9 Mo"
         },
         {
           "id": "web",
@@ -88,7 +94,8 @@
           "year": 2000,
           "url": "https://raw.githubusercontent.com/rand-h/mofonaina-app/main/data/baiboly/other_version/bible_eng_web.json",
           "type": "github",
-          "copyright": "Public Domain"
+          "copyright": "Public Domain",
+          "size": "4.8 Mo"
         },
         {
           "id": "net",
@@ -97,13 +104,10 @@
           "year": 2005,
           "url": "",
           "type": "local",
-          "copyright": "Biblical Studies Press"
+          "copyright": "Biblical Studies Press",
+          "size": "9.3 Mo"
         }
-        
       ]
     }
   }
 }
-
-
-
