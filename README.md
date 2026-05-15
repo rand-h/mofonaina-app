@@ -14,7 +14,7 @@
 <summary><i>[MG]</i> <b>Malagasy</b></summary>
 <br>
 
-**Mofonaina** dia rindranasan-tranonkala sy finday ahafahana mamaky ny **mofon'aina isan'andro** araka ny fandaharam-pianarana FJKM.  
+**Mofonaina** dia rindranasan-tranonkala sy finday ahafahana mamaky ny **mofon'aina isan'andro**.  
 Ity fampiharana ity dia manolotra endri-javatra maro ahafahana manaraka ny fivavahana sy ny famakiana Baiboly amin'ny fomba mora sy azo antoka.
 
 ### Endri-javatra fototra :
@@ -32,7 +32,7 @@ Ity fampiharana ity dia manolotra endri-javatra maro ahafahana manaraka ny fivav
 <summary><i>[FR]</i> <b>Français</b></summary>
 <br>
 
-**Mofonaina** est une application web et mobile permettant de lire les **mofon'aina du jour** selon le programme officiel de la FJKM.  
+**Mofonaina** est une application web et mobile permettant de lire les **mofon'aina du jour**.  
 Cette application offre de nombreuses fonctionnalités pour suivre la dévotion et la lecture biblique de manière simple et fiable.
 
 ### Fonctionnalités principales :
@@ -50,7 +50,7 @@ Cette application offre de nombreuses fonctionnalités pour suivre la dévotion 
 <summary><i>[EN]</i> <b>English</b></summary>
 <br>
 
-**Mofonaina** is a web and mobile app that lets you read the **daily mofon'aina** according to the official FJKM reading plan.  
+**Mofonaina** is a web and mobile app that lets you read the **daily mofon'aina**.  
 This app provides a rich set of tools to support daily devotion, Bible reading, and spiritual growth.
 
 ### Key Features:
@@ -76,6 +76,6 @@ This app provides a rich set of tools to support daily devotion, Bible reading, 
 
 <br>
 
-<sub>Dev by Hosea RANDRIANARISOA</sub>
+<sub>Dev by rand-h</sub>
 
 </div>
