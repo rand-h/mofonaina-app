@@ -79,3 +79,22 @@ This app provides a rich set of tools to support daily devotion, Bible reading, 
 <sub>Dev by rand-h</sub>
 
 </div>
+
+---
+
+## 🔗 Guide des Liens Profonds (Deep Links)
+
+L'application Mofonaina supporte l'utilisation de liens profonds (Deep Links) pour rediriger directement les utilisateurs vers des contenus spécifiques (versets, cantiques, confessions de foi) depuis l'extérieur (navigateur, SMS, WhatsApp, etc.). 
+
+Ces liens fonctionnent à la fois sur l'application mobile (ouverture native via Capacitor) et sur la version web.
+
+### Construction des liens
+
+| Contenu Cible | Structure de l'URL | Description & Règles |
+| :--- | :--- | :--- |
+| **Bible** | `/baiboly?ref=...` | **Paramètre `ref`** : Remplacer les espaces par des *underscores* (`_`). <br> *Ex: `.../baiboly?ref=Jaona_3:16`* |
+| **Cantiques** | `?hira=...` | **Paramètre `hira`** : Supporte `ffpm`, `ff`, `antema`, `tsanta`, `safif`. Remplacer l'espace par un *underscore* (`_`).<br> *Ex: `.../?hira=ffpm_12`* |
+| **Confessions de foi** | `/fanekempinoana?num=...` | **Paramètres `num` ou `laharana`** : Accepte uniquement les valeurs de `1` à `4`.<br> *Ex: `.../fanekempinoana?num=2`* |
+
+> **💡 Note importante sur le formatage :**
+> Pour garantir la compatibilité des liens sur toutes les plateformes (notamment les réseaux sociaux), évitez d'utiliser des espaces classiques dans les paramètres. Utilisez toujours le tiret du bas (`_`). L'application se charge de les reformater automatiquement lors de l'ouverture.
