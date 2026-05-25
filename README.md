@@ -93,7 +93,7 @@ Ces liens fonctionnent à la fois sur l'application mobile (ouverture native via
 | Contenu Cible | Structure de l'URL | Description & Règles |
 | :--- | :--- | :--- |
 | **Bible** | `/baiboly.html?ref=...` | **Paramètre `ref`** : Remplacer les espaces par des *underscores* (`_`). <br> *Ex: `https://mofonaina-cabea.web.app/baiboly.html?ref=Jaona_3:16`* |
-| **Cantiques** | `/fihirana.html?hira=...` | **Paramètre `hira`** : Supporte `ffpm`, `ff`, `antema`, `tsanta`, `safif`. Remplacer l'espace par un *underscore* (`_`).<br> *Ex: `https://mofonaina-cabea.web.app/fihirana.html?hira=ffpm_12`* |
+| **Cantiques** | `/fihirana.html?hira=...` | **Paramètre `hira`** : Supporte `ffpm`, `ff`, `antema`, `tsanta`, `fif`. Remplacer l'espace par un *underscore* (`_`).<br> *Ex: `https://mofonaina-cabea.web.app/fihirana.html?hira=ffpm_12`* |
 | **Confessions de foi** | `/fanekempinoana.html?num=...` | **Paramètres `num` ou `laharana`** : Accepte uniquement les valeurs de `1` à `4`.<br> *Ex: `https://mofonaina-cabea.web.app/fanekempinoana.html?num=2`* |
 
 > **💡 Note importante sur le formatage :**
